@@ -6,8 +6,10 @@ from html.parser import HTMLParser
 
 list_of_decks = []
 parsed_staple_dictionary = {}
-pages_to_grabe = 2
-file_to_save = 'parsed_data.txt'
+url_to_search_deck = f'https://tappedout.net/mtg-decks/search/?q=&format=edh&cards=mana-crypt&hubs=competitive' \
+                     f'&price_min=&price_max=&o=-date_updated&submit=Filter+results&p={i + 1}&page={i + 1} '
+pages_to_grabe = 1
+file_to_save = 'parsed_data_codie.txt'
 
 
 class MyDeckHTMLParser(HTMLParser):
@@ -16,7 +18,7 @@ class MyDeckHTMLParser(HTMLParser):
 
     def handle_data(self, data):
         global parsed_staple_dictionary
-        if data == 'Flip' or data == '\n     ' or data == '\\n    \xa0':
+        if data == 'Flip' or data == '\n     ' or data == '\\n    \xa0':
             pass
         elif parsed_staple_dictionary.get(data):
             key = parsed_staple_dictionary.get(data)
@@ -63,8 +65,6 @@ def tappedout_cedh_deck_searcher(url_searcher) -> object:
 print("Собираю ссылки...")
 
 for i in range(pages_to_grabe):
-    url_to_search_deck = f'https://tappedout.net/mtg-decks/search/?q=&format=edh&cards=mana-crypt&hubs=competitive' \
-                         f'&price_min=&price_max=&o=-date_updated&submit=Filter+results&p={i + 1}&page={i + 1} '
     tappedout_cedh_deck_searcher(url_to_search_deck)
 
 print("Нашел", len(list_of_decks), "колод")
@@ -79,7 +79,8 @@ parsed_staple_dictionary = {k: v for k, v in sorted_tuples[::-1]}
 print(f"Сохраняю результат в {file_to_save}")
 f = open(file_to_save, 'a')
 for card in parsed_staple_dictionary:
-    f.writelines(f"{card} - {parsed_staple_dictionary[card]}\n")
+    f.writelines(f"{parsed_staple_dictionary[card]} {card}\n")
+
 f.writelines(f"{list_of_decks}\n")
 f.close()
 print("Готово")
