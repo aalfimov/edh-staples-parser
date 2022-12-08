@@ -1,0 +1,3423 @@
+191 Mana Crypt
+182 Sol Ring
+139 Command Tower
+137 Ancient Tomb
+123 Arcane Signet
+111 Mana Vault
+106 Misty Rainforest
+104 Chrome Mox
+103 Scalding Tarn
+97 Polluted Delta
+96 Flooded Strand
+94 Verdant Catacombs
+93 Bloodstained Mire
+93 Marsh Flats
+91 Cyclonic Rift
+90 Windswept Heath
+90 Lotus Petal
+89 Island
+89 Demonic Tutor
+89 Mana Confluence
+86 Arid Mesa
+86 Mox Diamond
+85 Wooded Foothills
+84 Vampiric Tutor
+83 City of Brass
+82 Sensei's Divining Top
+78 Mystical Tutor
+77 Mana Drain
+77 Force of Will
+74 Jeweled Lotus
+73 Rhystic Study
+70 Mystic Remora
+70 Fierce Guardianship
+69 Sylvan Library
+67 Mox Opal
+66 Swamp
+65 Swan Song
+63 Enlightened Tutor
+63 Pact of Negation
+62 Birds of Paradise
+62 Fellwar Stone
+62 Forest
+61 Swords to Plowshares
+61 Force of Negation
+58 Plains
+58 Gemstone Caverns
+56 Watery Grave
+56 Worldly Tutor
+56 Grim Monolith
+56 Cavern of Souls
+55 Counterspell
+53 Dockside Extortionist
+53 Prismatic Vista
+53 Imperial Seal
+51 Flusterstorm
+51 Steam Vents
+51 Hallowed Fountain
+51 Brainstorm
+50 Mountain
+50 Lightning Greaves
+49 Urborg, Tomb of Yawgmoth
+48 Exotic Orchard
+47 Breeding Pool
+46 Gaea's Cradle
+45 Eternal Witness
+45 Urza's Saga
+45 Necropotence
+43 Deflecting Swat
+43 Reliquary Tower
+42 Esper Sentinel
+42 Llanowar Elves
+42 Temple Garden
+42 Dark Ritual
+41 Carpet of Flowers
+41 Elvish Mystic
+41 Toxic Deluge
+41 Strip Mine
+40 Veil of Summer
+40 Reflecting Pool
+39 Blood Crypt
+39 Windfall
+39 Boseiju, Who Endures
+38 Overgrown Tomb
+38 Mox Amber
+37 Wheel of Fortune
+37 Bloom Tender
+37 Fyndhorn Elves
+37 Noxious Revival
+37 Opposition Agent
+36 Godless Shrine
+35 Drannith Magistrate
+34 Dark Confidant
+34 Ad Nauseam
+34 Skullclamp
+34 Path to Exile
+34 Stomping Ground
+34 Finale of Devastation
+33 Grand Abolisher
+33 Mental Misstep
+33 Sacred Foundry
+33 Ponder
+33 Grim Tutor
+32 Swiftfoot Boots
+32 Chain of Vapor
+32 Thassa's Oracle
+31 Walking Ballista
+31 Spellseeker
+31 Crop Rotation
+31 Green Sun's Zenith
+31 Nykthos, Shrine to Nyx
+30 Inventors' Fair
+30 Tundra
+30 Tropical Island
+30 Tainted Pact
+29 Gitaxian Probe
+29 Otawara, Soaring City
+29 Nature's Claim
+29 Underground Sea
+29 Talisman of Creativity
+29 Chromatic Lantern
+29 Forbidden Orchard
+29 An Offer You Can't Refuse
+28 Muddle the Mixture
+28 Dramatic Reversal
+28 Ashnod's Altar
+28 Isochron Scepter
+28 Gamble
+28 Red Elemental Blast
+28 Chaos Warp
+28 Mind Stone
+28 Reanimate
+28 Command Beacon
+28 Dauthi Voidwalker
+27 Basalt Monolith
+27  MP
+27 Pyroblast
+27 Silence
+27 Demonic Consultation
+27 Morphic Pool
+27 Jeska's Will
+27 Teferi's Protection
+27 Savannah
+27 Preordain
+27 Narset, Parter of Veils
+26  SL
+26  *f-pre*
+26 Diabolic Intent
+26 Assassin's Trophy
+26 Talisman of Dominance
+26 Yavimaya, Cradle of Growth
+25 Taiga
+25 Imperial Recruiter
+25 Eldritch Evolution
+25 Cabal Ritual
+24 Thought Vessel
+23 Smothering Tithe
+23 Gilded Drake
+23 Cabal Coffers
+23 Simian Spirit Guide
+23 Damnation
+23 Volcanic Island
+23 Beast Within
+23 Deathrite Shaman
+23 Arbor Elf
+23 Bayou
+22 Phyrexian Altar
+22 Consecrated Sphinx
+22 Snow-Covered Island
+22 Treasure
+22 Eladamri's Call
+22 Chord of Calling
+22 Three Visits
+21 Plateau
+21 Scrubland
+21 Dovin's Veto
+21 Survival of the Fittest
+21 Yawgmoth's Will
+21 Talisman of Progress
+21 Badlands
+21 Entomb
+20 Delay
+20 Buried Ruin
+20 Negate
+20 Aven Mindcensor
+20 Ranger-Captain of Eos
+20 Rejuvenating Springs
+20 Bolas's Citadel
+20 Aetherflux Reservoir
+19 Academy Ruins
+19 Ragavan, Nimble Pilferer
+19 Faithless Looting
+19 Lion's Eye Diamond
+19 Copy Artifact
+19 Dispel
+19 Underground River
+19 Laboratory Maniac
+19 Seedborn Muse
+19 Nature's Lore
+19 Dryad Arbor
+19 Phyrexian Tower
+18 Bird 2/2 U
+18 Force of Vigor
+18 War Room
+18 Izzet Signet
+18 Intuition
+18 Underworld Breach
+18 Archivist of Oghma
+18 Pongify
+18 Notion Thief
+18 Heroic Intervention
+18 Crucible of Worlds
+17 Recruiter of the Guard
+17 Frantic Search
+17 Fabricate
+17 Wasteland
+17 Wild Growth
+17 Utopia Sprawl
+17 Construct 0/0 C
+17 Dimir Signet
+17 Training Center
+17 Scroll Rack
+17 Avacyn's Pilgrim
+17 Abrupt Decay
+17 Lim-Dul's Vault
+17 Gilded Lotus
+17 Allosaurus Shepherd
+17 Arcane Denial
+17 Exploration
+17 Yavimaya Coast
+17 Deadly Rollick
+17 Animate Dead
+16 Timetwister
+16 Jace, Wielder of Mysteries
+16 Anguished Unmaking
+16 Noble Hierarch
+16 Cephalid Coliseum
+16 Phyrexian Metamorph
+16 Elves of Deep Shadow
+16 Sunken Ruins
+16 Blasphemous Act
+16 Talisman of Indulgence
+16 Snapcaster Mage
+16 Waterlogged Grove
+16 Peer into the Abyss
+15 Sea of Clouds
+15 Eiganjo, Seat of the Empire
+15 Fiery Islet
+15 Collector Ouphe
+15 Expedition Map
+15 Copy Clone
+15 Tezzeret the Seeker
+15 Merchant Scroll
+15 Miscast
+15 Phyrexian Arena
+15 Luxury Suite
+15 Elvish Spirit Guide
+15 Yavimaya Hollow
+15 Snow-Covered Swamp
+15 Praetor's Grasp
+14 Bountiful Promenade
+14 Beast 3/3 G
+14 Concordant Crossroads
+14 Seat of the Synod
+14 Moonsilver Key
+14 Spire Garden
+14 Purphoros, God of the Forge
+14 Snow-Covered Forest
+14 Brain Freeze
+14 Viscera Seer
+14 Spellskite
+14 Supreme Verdict
+14 Karn, the Great Creator
+14 Winter Orb
+14 Wheel of Misfortune
+14 Tarnished Citadel
+14 Ledger Shredder
+14 Volrath's Stronghold
+14 Spell Pierce
+14 Kozilek, Butcher of Truth
+14 Great Furnace
+14 Mystic Forge
+14  *f-etch*
+14 Hall of the Bandit Lord
+14 Rapid Hybridization
+14 Craterhoof Behemoth
+14 Oko, Thief of Crowns
+14 Mystic Sanctuary
+14 Flooded Grove
+14 Buried Alive
+14 Homeward Path
+13 Fabled Passage
+13 Cascade Bluffs
+13 Transmute Artifact
+13 Grafdigger's Cage
+13 Altar of Dementia
+13 Sulfur Falls
+13 Vandalblast
+13 Azorius Signet
+13 Hall of Heliod's Generosity
+13 Talisman of Conviction
+13 Everflowing Chalice
+13 Staff of Domination
+13 Priest of Titania
+13 Sylvan Safekeeper
+13 Feed the Swarm
+13 Emergence Zone
+13 Crystal Vein
+12 Karmic Guide
+12 Linvala, Keeper of Silence
+12 Cursed Totem
+12 Narset's Reversal
+12 Night's Whisper
+12 Snow-Covered Mountain
+12 Generous Gift
+12 Goblin Bombardment
+12 Mystic Gate
+12 Soul-Guide Lantern
+12 Memory Jar
+12 Phantasmal Image
+12 Bojuka Bog
+12 Krosan Grip
+12 Neoform
+12 Torment of Hailfire
+12 Thran Dynamo
+12 Thousand-Year Elixir
+12 Wishclaw Talisman
+12 Necromancy
+12 Jet Medallion
+12 Culling the Weak
+12 Sheoldred, the Apocalypse
+11 Sun Titan
+11 Nexus of Fate
+11 Time Warp
+11 Archon of Emeria
+11 Food Chain
+11 Impact Tremors
+11 Power Artifact
+11 Trinket Mage
+11 Reforge the Soul
+11 Geier Reach Sanitarium
+11 Ignoble Hierarch
+11 Freed from the Real
+11 Shivan Reef
+11 Terror of the Peaks
+11 Meld
+11 Mikaeus, the Unhallowed
+11 Abrade
+11 Liquimetal Torque
+11 Defense Grid
+11 Echo of Eons
+11 Ugin, the Spirit Dragon
+11 Maze of Ith
+11 Sevinne's Reclamation
+11 Undergrowth Stadium
+11 Talisman of Hierarchy
+11 Black Market Connections
+11 Ulamog, the Infinite Gyre
+11 Natural Order
+11 Summoner's Pact
+11 Rings of Brighthearth
+11 Horizon Canopy
+11 Deserted Temple
+11 Field of the Dead
+10 Selvala, Heart of the Wilds
+10 Greater Good
+10 Omniscience
+10 Adarkar Wastes
+10 Regrowth
+10 Boros Signet
+10 Blind Obedience
+10 Skyclave Apparition
+10 Angel's Grace
+10 Grasp of Fate
+10 Blood Artist
+10 Living Death
+10 Helm of Awakening
+10 Sword of Feast and Famine
+10 Grave Pact
+10 Carrion Feeder
+10 Farseek
+10 Teferi, Time Raveler
+10 Tangle Wire
+10 Jace, the Mind Sculptor
+10 Temporal Mastery
+10 Nurturing Peatland
+10 Slaughter Pact
+10 Drowned Catacomb
+10 Exsanguinate
+10 Unwinding Clock
+10 Boseiju, Who Shelters All
+10 Burgeoning
+10 Azusa, Lost but Seeking
+10 Hinterland Harbor
+10 Dance of the Dead
+10 City of Traitors
+10 Gray Merchant of Asphodel
+9 Crypt Ghast
+9 Ancient Den
+9 Birthing Pod
+9 Plaza of Heroes
+9 Pili-Pala
+9 Grand Architect
+9 Destiny Spinner
+9 Aggravated Assault
+9 Glacial Fortress
+9 Endurance
+9 Strionic Resonator
+9 Reveillark
+9 Food
+9 Whir of Invention
+9 Mishra's Bauble
+9 Sign in Blood
+9 Torpor Orb
+9 Darksteel Citadel
+9 Triskelion
+9 Tinder Wall
+9 High Market
+9 Final Fortune
+9 Goblin Welder
+9 Extraplanar Lens
+9 Orzhov Signet
+9 Doubling Season
+9 Professional Face-Breaker
+9 Dig Through Time
+9 Aura Shards
+9 Talisman of Curiosity
+9 Rakdos Signet
+9 Tooth and Nail
+9 Defense of the Heart
+9 Brushland
+9 Sakura-Tribe Elder
+9 Rain of Filth
+9 Imp's Mischief
+9 Razaketh, the Foulblooded
+8 Thalia, Heretic Cathar
+8 Shalai, Voice of Plenty
+8 Ruby Medallion
+8 Long-Term Plans
+8 Cultivate
+8 Pull from Tomorrow
+8 Wrath of God
+8 Vault of Champions
+8 Deafening Silence
+8 Hushbringer
+8 Goblin Engineer
+8 Winds of Change
+8 Magus of the Wheel
+8 Sunpetal Grove
+8 Wear / Tear
+8 Chromatic Star
+8 Voltaic Key
+8 Scheming Symmetry
+8 Disallow
+8 Cloudstone Curio
+8 Wirewood Symbiote
+8 Rhythm of the Wild
+8 Thrasios, Triton Hero
+8 Opt
+8 Time Spiral
+8 Static Orb
+8 Ape 3/3 G
+8 Etherium Sculptor
+8 Codex Shredder
+8 Zulaport Cutthroat
+8 Sylvan Tutor
+8 Birgi, God of Storytelling
+8 Gemstone Mine
+8 Fauna Shaman
+8 Beast Whisperer
+8 Augur of Autumn
+8 Kiki-Jiki, Mirror Breaker
+8 Snap
+8  HP
+8 Raffine's Tower
+8 Treasure Vault
+8 Sculpting Steel
+8 Cryptic Command
+8 Temporal Manipulation
+8 Personal Tutor
+8 Ornithopter
+8 Clearwater Pathway
+8 Tolaria West
+8 Autumn's Veil
+8 Elixir of Immortality
+8 Kindred Discovery
+8 Damn
+8 Avacyn, Angel of Hope
+8 Wooded Bastion
+8 Ramunap Excavator
+8 Oracle of Mul Daya
+8 Avenger of Zendikar
+8 Dismember
+8 Shizo, Death's Storehouse
+8 Blast Zone
+8 Vilis, Broker of Blood
+7 Peregrine Drake
+7 Elesh Norn, Grand Cenobite
+7 Mirri, Weatherlight Duelist
+7 Treasonous Ogre
+7 Skirk Prospector
+7 Mikokoro, Center of the Sea
+7 The Great Henge
+7 Expropriate
+7 Capsize
+7 Sterling Grove
+7 Capture of Jingzhou
+7 Thalia, Guardian of Thraben
+7 Steel Hellkite
+7 Platinum Angel
+7 Simic Signet
+7 Land Tax
+7 Blasting Station
+7 Ethersworn Canonist
+7 Idyllic Tutor
+7 Desperate Ritual
+7 Raugrin Triome
+7 Darksteel Forge
+7 Commander's Sphere
+7 Urza, Lord High Artificer
+7 Krark-Clan Ironworks
+7 Serum Visions
+7 Rest in Peace
+7 Academy Rector
+7 Instill Energy
+7 Umbral Mantle
+7 Temur Sabertooth
+7 Quirion Ranger
+7 March of Otherworldly Light
+7 Solve the Equation
+7 Trophy Mage
+7 Foundry Inspector
+7 Smokestack
+7 Resculpt
+7 Reality Shift
+7 Wurmcoil Engine
+7 Stifle
+7 Malevolent Hermit
+7 Leyline of the Void
+7 Thoughtseize
+7 Hellkite Tyrant
+7 Balefire Dragon
+7 Mirage Mirror
+7 Training Grounds
+7 Snow-Covered Plains
+7 Reconnaissance
+7 Caves of Koilos
+7 Spark Double
+7 Vindicate
+7 Teferi, Temporal Archmage
+7 Tibalt's Trickery
+7 Metallic Mimic
+7 Dualcaster Mage
+7 Trinisphere
+7 Thorn of Amethyst
+7 Springleaf Drum
+7 Sphere of Resistance
+7 Grinding Station
+7 Lightning Bolt
+7 Spirebluff Canal
+7 Misdirection
+7 Unearth
+7 Pemmin's Aura
+7 Llanowar Wastes
+7 Rune-Scarred Demon
+7 Deadeye Navigator
+7 Careful Study
+7 Ashiok, Dream Render
+7 Culling Ritual
+7 Winds of Abandon
+7 Ulamog, the Ceaseless Hunger
+7 Temple of the False God
+7 Sulfurous Springs
+7 Graven Cairns
+7 Dragonskull Summit
+7 Manifold Key
+7 Chromatic Orrery
+7 Genesis Wave
+7 Flawless Maneuver
+7 Earthcraft
+7 Pattern of Rebirth
+7 Ghostly Flicker
+7 Lotus Cobra
+7 Thespian's Stage
+7 Vault of Whispers
+7 Spire of Industry
+6 Enter the Infinite
+6 Sword of Fire and Ice
+6 Sylvan Caryatid
+6 Drift of Phantasms
+6 Relentless Assault
+6 Flagstones of Trokair
+6 Elspeth, Sun's Champion
+6 Kor Haven
+6 Gaddock Teeg
+6 Manglehorn
+6 Jin-Gitaxias, Progress Tyrant
+6 Doomsday
+6 Prismatic Lens
+6 Vorinclex, Voice of Hunger
+6 Skyshroud Claim
+6 Old Gnawbone
+6 Minamo, School at Water's Edge
+6 Ghost Quarter
+6 Seething Song
+6 Search for Azcanta
+6 Solitude
+6 Eidolon of Rhetoric
+6 Rite of Flame
+6 Thrill of Possibility
+6 Boros Charm
+6 Elvish Visionary
+6 Mass Hysteria
+6 Mother of Runes
+6 Oswald Fiddlebender
+6 Reiterate
+6 Conjurer's Bauble
+6 Chromatic Sphere
+6 Riverglide Pathway
+6 Urza's Bauble
+6 Felidar Guardian
+6 Silent Clearing
+6  *f-pp*
+6 Aura of Silence
+6 Castle Garenbrig
+6 Vitalize
+6 Berserk
+6 Scryb Ranger
+6 Faeburrow Elder
+6 March of Swirling Mist
+6 Back to Basics
+6 Tribute Mage
+6 Reshape
+6 Tormod's Crypt
+6 Lake of the Dead
+6 Protean Hulk
+6 Shadowspear
+6 Commander's Plate
+6 Trickbind
+6 Tale's End
+6 Golgari Signet
+6 Twilight Mire
+6 Sheoldred, Whispering One
+6 Reclamation Sage
+6 Shared Summons
+6 Toski, Bearer of Secrets
+6 Baleful Mastery
+6 Seize the Day
+6 Herald's Horn
+6 Emiel the Blessed
+6 Yisan, the Wanderer Bard
+6 Leyline of Anticipation
+6 Hengegate Pathway
+6 Dictate of Erebos
+6 Arena Rector
+6 Spara's Headquarters
+6 Karn's Bastion
+6 Twinflame
+6 Wild Magic Surge
+6 The Chain Veil
+6 Sunken Hollow
+6 Temporal Trespass
+6 Sea Gate Restoration
+6 Woodland Cemetery
+6 Snuff Out
+6 Worn Powerstone
+6 Privileged Position
+6 Sylvan Scrying
+6 Growing Rites of Itlimoc
+6 Parallel Lives
+6 Anointed Procession
+6 Wirewood Lodge
+6 Sidisi, Undead Vizier
+6 Diabolic Tutor
+6 Cut Down
+5 Stoneforge Mystic
+5 Mind Over Matter
+5 Mirari's Wake
+5 Fire Covenant
+5 Exquisite Blood
+5 Glen Elendra Archmage
+5 Orcish Lumberjack
+5 Jace, Vryn's Prodigy
+5 Blue Sun's Zenith
+5 Sunbaked Canyon
+5 Spectator Seating
+5 World at War
+5 Saffi Eriksdotter
+5 Mistveil Plains
+5 Zombie 2/2 B
+5 Candelabra of Tawnos
+5 Lotus Bloom
+5 Path of Ancestry
+5 Myriad Landscape
+5 Xenagos, God of Revels
+5 Mana Reflection
+5 Bonders' Enclave
+5 Klauth, Unrivaled Ancient
+5 Goblin Matron
+5 Void Winnower
+5 Eldrazi Displacer
+5 Solemn Simulacrum
+5 Coalition Relic
+5 Nim Deathmantle
+5 Frog Lizard 3/3 G
+5 Padeem, Consul of Innovation
+5 Stasis
+5 Emerald Medallion
+5 Garruk's Uprising
+5 Beastmaster Ascension
+5 Kodama's Reach
+5 Time Stretch
+5 Hunter's Insight
+5 Null Rod
+5 Spirit Mantle
+5 Kenrith's Transformation
+5 Tireless Provisioner
+5 Walk the Aeons
+5 Dress Down
+5 Squee, the Immortal
+5 Pyretic Ritual
+5 Vexing Shusher
+5 Rootbound Crag
+5 Armageddon
+5 Fetid Heath
+5 Teferi, Master of Time
+5 Loran of the Third Path
+5 Past in Flames
+5 Valakut Awakening
+5 Scrap Trawler
+5 Myr Retriever
+5 Profane Tutor
+5 Altar of the Brood
+5 Serra's Sanctum
+5 Rishkar's Expertise
+5 Mana Echoes
+5 Intruder Alarm
+5 Kinnan, Bonder Prodigy
+5 The Tabernacle at Pendrell Vale
+5 Liliana of the Dark Realms
+5 Crux of Fate
+5 Bubbling Muck
+5 Oubliette
+5 The Reality Chip
+5 Emrakul, the Promised End
+5 Cursed Mirror
+5 Infernal Grasp
+5 Sanctum Weaver
+5 Conqueror's Flail
+5 Castle Locthwain
+5 Helm of Obedience
+5 Chain of Smog
+5 Grief
+5 Duress
+5 Vesuva
+5 Scourge of the Throne
+5 Goldspan Dragon
+5 Dragon Tempest
+5 Incubation Druid
+5 Shattered Sanctum
+5 Prairie Stream
+5 Deserted Beach
+5 The Ozolith
+5 Sneak Attack
+5 Sakashima of a Thousand Faces
+5 Kokusho, the Evening Star
+5 Farewell
+5 Void Rend
+5 Teferi, Hero of Dominaria
+5 Liliana of the Veil
+5 Zagoth Triome
+5 Blood Moon
+5 The Meathook Massacre
+5 No Mercy
+5 Darkness
+5 Memnite
+5 Archaeomancer
+5 Xander's Lounge
+5 Jin-Gitaxias, Core Augur
+5 Fact or Fiction
+5 Talisman of Unity
+5 Guardian Project
+5 Triumph of the Hordes
+5 All Is Dust
+5 Mishra's Workshop
+5 Mirror Entity
+5 Akroma's Will
+5 Seeker of Skybreak
+5 Planar Bridge
+5 Canopy Vista
+5 Barkchannel Pathway
+5 Scapeshift
+5 Life from the Loam
+5 Bane of Progress
+5 Botanical Sanctum
+5 Skirge Familiar
+5 Mutavault
+5 Inkmoth Nexus
+4 Grand Arbiter Augustin IV
+4 Zealous Conscripts
+4 Goblin Recruiter
+4 Prophet of Distortion
+4 Alchemist's Refuge
+4 Hammer of Nazahn
+4 Persistent Petitioners
+4 Howling Mine
+4 Jace's Archivist
+4 Nature's Will
+4 Indatha Triome
+4 Sanguine Bond
+4 Vito, Thorn of the Dusk Rose
+4 Nirkana Revenant
+4 Delayed Blast Fireball
+4 Rolling Earthquake
+4 Lavinia, Azorius Renegade
+4 Derevi, Empyrial Tactician
+4 Sungrass Prairie
+4 Ugin, the Ineffable
+4 Daretti, Scrap Savant
+4 Conduit of Ruin
+4 Need for Speed
+4 Savage Beating
+4 Waves of Aggression
+4 Part the Waterveil
+4 Beacon of Tomorrows
+4 Eiganjo Castle
+4 Dragonlord Dromoka
+4 Authority of the Consuls
+4 Brimaz, King of Oreskos
+4 Mentor of the Meek
+4 Branchloft Pathway
+4 Fiery Emancipation
+4 Castle Vantress
+4 Sorin Markov
+4 Nyxbloom Ancient
+4 Tempt with Discovery
+4 Elemental Bond
+4 Savage Ventmaw
+4 Atarka, World Render
+4 Woodland Bellower
+4 Lodestone Golem
+4 Temple Bell
+4 Honor-Worn Shaku
+4 Benevolent Bodyguard
+4 Hope of Ghirapur
+4 Tamiyo, the Moon Sage
+4 Teferi's Puzzle Box
+4 Black Sun's Zenith
+4 Magus of the Moon
+4 Infernal Plunge
+4 Kuldotha Forgemaster
+4 Master Transmuter
+4 Jhoira, Weatherlight Captain
+4 Wood Elves
+4 Plunge into Darkness
+4 Impulse
+4 Plant 0/1 G
+4 Rampant Growth
+4 Harmonize
+4 Fierce Empath
+4 Mission Briefing
+4 Day of Judgment
+4 Heliod's Intervention
+4 Weathered Wayfarer
+4 Spirit of the Labyrinth
+4 Serra Ascendant
+4 Containment Priest
+4 Westvale Abbey
+4 Clue
+4 Paradise Mantle
+4 Rogue's Passage
+4 Counterflux
+4 Tormenting Voice
+4 Altar of Bone
+4 Selesnya Signet
+4 Gruul Signet
+4 Dragon's Rage Channeler
+4 Warrior's Oath
+4 Ravages of War
+4 Isolated Chapel
+4 Clifftop Retreat
+4 Battlefield Forge
+4 Phyrexian Revoker
+4 Deep Gnome Terramancer
+4 Cathar Commando
+4 Mizzix's Mastery
+4 Tolarian Winds
+4 Bonus Round
+4 Forsaken Monument
+4 Moat
+4 Nylea, God of the Hunt
+4 Kogla, the Titan Ape
+4 Duskwatch Recruiter
+4 Boreal Druid
+4 Ashaya, Soul of the Wild
+4 Manaweft Sliver
+4 Ghostly Pilferer
+4 Counterbalance
+4 Winds of Rebuke
+4 Sapphire Medallion
+4 Pithing Needle
+4 Emry, Lurker of the Loch
+4 Sleight of Hand
+4 Consider
+4 Semblance Anvil
+4 Blood Pact
+4 Pact Weapon
+4 Akroma's Memorial
+4 Molten Psyche
+4 Mindbreak Trap
+4 Bolt Bend
+4 Painter's Servant
+4 Outland Liberator
+4 Mana Web
+4 Damping Sphere
+4 Waste Not
+4 Tergrid, God of Fright
+4 Scavenger Grounds
+4 Chains of Mephistopheles
+4 Haven of the Spirit Dragon
+4 Utvara Hellkite
+4 Lathliss, Dragon Queen
+4 Mycosynth Lattice
+4 Illusionist's Bracers
+4 Village Bell-Ringer
+4 Biomancer's Familiar
+4 Alhammarret's Archive
+4 Gravecrawler
+4 Shipwreck Marsh
+4 Brightclimb Pathway
+4 Hanweir Battlements
+4 Yawgmoth, Thran Physician
+4 Yahenni, Undying Partisan
+4 Ensnaring Bridge
+4 Karn Liberated
+4 Tezzeret, Artifice Master
+4 Narset Transcendent
+4 Oath of Teferi
+4 Adaptive Automaton
+4 Clock of Omens
+4 Displacer Kitten
+4 Baleful Strix
+4 Treasure Cruise
+4 Finale of Promise
+4 Jeweled Amulet
+4 Riptide Laboratory
+4 Phyrexian Delver
+4 Massacre Wurm
+4 Talisman of Resilience
+4 Anvil of Bogardan
+4 Compost
+4 Abundance
+4 It That Betrays
+4 Treasure Nabber
+4 Neheb, the Eternal
+4 Hedron Archive
+4 Doubling Cube
+4 Marwyn, the Nurturer
+4 Devoted Druid
+4 Benefactor's Draught
+4 Awaken the Woods
+4 Dark Depths
+4 Harrow
+4 Gush
+4 Wayward Swordtooth
+4 Dryad of the Ilysian Grove
+4 Oboro, Palace in the Clouds
+4 Final Parting
+4 Shallow Grave
+4 Corpse Dance
+4 Blood Pet
+4 Blood Celebrant
+4 Glimmervoid
+4 Tendrils of Agony
+4 Chainer, Dementia Master
+3 Village Rites
+3 Paradise Druid
+3 Captain Sisay
+3 Magewright's Stone
+3 High Tide
+3 Fervor
+3 Sublime Archangel
+3 Soul Warden
+3 Grim Hireling
+3 Archaeomancer's Map
+3 Concealed Courtyard
+3 Mystic Confluence
+3 Surrak Dragonclaw
+3 Glint-Horn Buccaneer
+3 Steelshaper's Gift
+3 Kura, the Boundless Sky
+3 Petrified Field
+3 Explore
+3 Lifeline
+3 Ornithopter of Paradise
+3 Darksteel Plate
+3 Murder
+3 Panharmonicon
+3 Tree of Tales
+3 Garruk, Primal Hunter
+3 Fire-Lit Thicket
+3 Cadaverous Bloom
+3 Vedalken Orrery
+3 Time Reversal
+3 Mosswort Bridge
+3 Runic Armasaur
+3 Wandering Archaic
+3 Sword of the Animist
+3 Karn, Scion of Urza
+3 Arcane Lighthouse
+3 Unclaimed Territory
+3 Mulldrifter
+3 Karn, Living Legacy
+3 Wastes
+3 Sanctum of Ugin
+3 Dreamstone Hedron
+3 Blinkmoth Urn
+3 Myr Battlesphere
+3 Metalworker
+3 Nihil Spellbomb
+3 Shattering Spree
+3 Descent into Avernus
+3 Ophidian Eye
+3 Curiosity
+3 Tandem Lookout
+3 Psychosis Crawler
+3 Stroke of Genius
+3 Overgrown Farmland
+3 Nature's Chosen
+3 Shrine of the Forsaken Gods
+3 Kozilek, the Great Distortion
+3 Ashling's Prerogative
+3 Razia's Purification
+3 Karn's Temporal Sundering
+3 Fury of the Horde
+3 Cataclysm
+3 Bow of Nylea
+3 Okina, Temple to the Grandfathers
+3 Reki, the History of Kamigawa
+3 Kataki, War's Wage
+3 Ral Zarek
+3 Chandra, Torch of Defiance
+3 Vanquish the Horde
+3 Selvala, Explorer Returned
+3 Champion of Lambholt
+3 Sphere of Safety
+3 Song of the Dryads
+3 Ohran Frostfang
+3 Captain Lannery Storm
+3 Blade of Selves
+3 Shared Animosity
+3 Mangara, the Diplomat
+3 Luminous Broodmoth
+3 Iroas, God of Victory
+3 Battle Angels of Tyr
+3 Adeline, Resplendent Cathar
+3 Fiend Hunter
+3 Oakhame Adversary
+3 Turntimber Symbiosis
+3 Reassembling Skeleton
+3 Mindcrank
+3 Mesmeric Orb
+3 Heliod, Sun-Crowned
+3 Bala Ged Recovery
+3 Toxrill, the Corrosive
+3 Kormus Bell
+3 Bontu's Monument
+3 Asceticism
+3 Bard Class
+3 Selvala's Stampede
+3 See the Unwritten
+3 Rockfall Vale
+3 Cragcrown Pathway
+3 Cinder Glade
+3 Somberwald Sage
+3 Inferno of the Star Mounts
+3 Ancient Copper Dragon
+3 Elemental 5/3 G
+3 Tireless Tracker
+3 March of Reckless Joy
+3 Meditate
+3 Defiler of Dreams
+3 Urza's Tower
+3 Urza's Power Plant
+3 Urza's Mine
+3 Paradox Engine
+3 Eerie Interlude
+3 Amulet of Vigor
+3 Vessel of Nascency
+3 Witherbloom Apprentice
+3 Savai Triome
+3 Victimize
+3 Junji, the Midnight Sky
+3 Caustic Caterpillar
+3 Baral, Chief of Compliance
+3 Root Maze
+3 Circle of Dreams Druid
+3 Unnatural Growth
+3 Life's Legacy
+3 Prowling Serpopard
+3 Pathbreaker Ibex
+3 God-Eternal Rhonas
+3 Ghalta, Primal Hunger
+3 Insidious Dreams
+3 Nether Traitor
+3 Scorched Ruins
+3 Rise of the Dark Realms
+3 Whip of Erebos
+3 Urza's Incubator
+3 Blood for the Blood God!
+3 Imprisoned in the Moon
+3 Blightstep Pathway
+3 Return to Nature
+3 Pestermite
+3 Deceiver Exarch
+3 Tezzeret's Gambit
+3 Open the Armory
+3 Shielded by Faith
+3 Rancor
+3 Mirri's Guile
+3 All That Glitters
+3 Splendid Reclamation
+3 Nezahal, Primal Tide
+3 Unexpectedly Absent
+3 Chalice of the Void
+3 Rule of Law
+3 Lion Sash
+3 Tainted Strike
+3 Fecundity
+3 Korvold, Fae-Cursed King
+3 Chatterfang, Squirrel General
+3 Twinshot Sniper
+3 Pyrite Spellbomb
+3 God-Pharaoh's Statue
+3 Irenicus's Vile Duplication
+3 Terror of Mount Velus
+3 Serra's Emissary
+3 Leonin Relic-Warder
+3 Giver of Runes
+3 Gisela, Blade of Goldnight
+3 Archfiend of Despair
+3 Orim's Chant
+3 Blacksmith's Skill
+3 Abeyance
+3 Liberator, Urza's Battlethopter
+3 Glint Hawk
+3 Magmatic Insight
+3 Burning Inquiry
+3 Vedalken Archmage
+3 Sai, Master Thopterist
+3 Paradoxical Outcome
+3 Wayfarer's Bauble
+3 Spine of Ish Sah
+3 Relic of Progenitus
+3 Zhalfirin Void
+3 Fetid Pools
+3 Terminus
+3 Return to Dust
+3 Smuggler's Share
+3 Paradox Haze
+3 Sword of the Paruns
+3 Rhonas the Indomitable
+3 Karametra's Acolyte
+3 The World Tree
+3 Hullbreaker Horror
+3 Shimmer Myr
+3 Jhoira's Familiar
+3 Unwind
+3 Aether Spellbomb
+3 Tortured Existence
+3 Falkenrath Noble
+3 Gate to Phyrexia
+3 Cruel Tutor
+3 Phyrexian Rager
+3 Unmarked Grave
+3 Murderous Rider
+3 Sudden Spoiling
+3 Withering Boon
+3 Go for the Throat
+3 Malakir Rebirth
+3 Anger of the Gods
+3 Stormcarved Coast
+3 Silverbluff Bridge
+3 Finale of Revelation
+3 Ricochet Trap
+3 Sol Talisman
+3 Relic of Legends
+3 Coveted Jewel
+3 Ophiomancer
+3 Maralen of the Mornsong
+3 Temple of Malady
+3 Darkbore Pathway
+3 Doom Whisperer
+3 Woe Strider
+3 Braids, Arisen Nightmare
+3 Spore Frog
+3 Thran Quarry
+3 Ancient Ziggurat
+3 Yusri, Fortune's Flame
+3 Wild Cantor
+3 Grazilaxx, Illithid Scholar
+3 Goblin Cratermaker
+3 Bond Beetle
+3 Barrin, Master Wizard
+3 Ancestral Statue
+3 Forcefield
+3 Inquisition of Kozilek
+3 Hymn to Tourach
+3 Funeral Charm
+3 Lotus Vale
+3 Dust Bowl
+3 Worldgorger Dragon
+3 Scourge of Valkas
+3 Rimescale Dragon
+3 Moonveil Dragon
+3 Leyline Tyrant
+3 Hellkite Charger
+3 Greater Gargadon
+3 Bogardan Hellkite
+3 Thornbite Staff
+3 Eldrazi Monument
+3 Library of Leng
+3 Fracture
+3 Burglar Rat
+3 Seize the Spotlight
+3 Unspeakable Symbol
+3 Plumb the Forbidden
+3 Syr Konrad, the Grim
+3 Pitiless Plunderer
+3 Oona's Blackguard
+3 Mishra, Claimed by Gix
+3 Grim Haruspex
+3 Council's Judgment
+3 Deepglow Skate
+3 Liliana, Dreadhorde General
+3 Liliana Vess
+3 Shatterskull Smashing
+3 Fork
+3 Smuggler's Copter
+3 Mirror of the Forebears
+3 Maskwood Nexus
+3 Dack Fayden
+3 Kroxa, Titan of Death's Hunger
+3 Darkslick Shores
+3 Street Wraith
+3 Spectral Sailor
+3 Phyrexian Walker
+3 Universal Automaton
+3 Overmaster
+3 Essence Flux
+3 Drown in the Loch
+3 Stony Silence
+3 Wall of Roots
+3 Terastodon
+3 Exhume
+3 Forbid
+3 Fiend Artisan
+3 Spirit 1/1 C
+3 Talisman of Impulse
+3 Realmwalker
+3 Bloodchief Ascension
+3 Blightsteel Colossus
+3 Sire Of Insanity
+3 Kindred Dominance
+3 Skyclave Relic
+3 Mana Geyser
+3 Lithoform Engine
+3 Coat of Arms
+3 Wirewood Channeler
+3 Joraga Treespeaker
+3 Elvish Archdruid
+3 To Arms!
+3 Quest for Renewal
+3 Sunder
+3 Elvish Reclaimer
+3 Glacial Chasm
+3 Dark Petition
+3 Urborg
+3 Takenuma, Abandoned Mire
+3 Peat Bog
+3 Necrotic Ooze
+2 Bloodghast
+2 Dusk / Dawn
+2 Bramble Sovereign
+2 Portent
+2 Fatal Push
+2 Leshrac's Sigil
+2 Mask of Memory
+2 The Wandering Emperor
+2 Congregation at Dawn
+2 Llanowar Tribe
+2 Narset, Enlightened Master
+2 Time Wipe
+2 Kalitas, Traitor of Ghet
+2 Defiler of Vigor
+2 Lantern of the Lost
+2 Aphotic Wisps
+2 Rograkh, Son of Rohgahh
+2 Helm of the Host
+2 Fractured Powerstone
+2 Heat Shimmer
+2 Soulherder
+2 Reflector Mage
+2 Coiling Oracle
+2 Prismite
+2 Edric, Spymaster of Trest
+2 Sandstone Needle
+2 Goro-Goro, Disciple of Ryusei
+2 Goblin Bushwhacker
+2 Conspicuous Snoop
+2 Lotus Field
+2 Into the Roil
+2 Welcoming Vampire
+2 Bedlam Reveler
+2 Anje's Ravager
+2 Puppeteer Clique
+2 Stalking Vengeance
+2 Mogg Fanatic
+2 Brightstone Ritual
+2 Hammer of Purphoros
+2 Rundvelt Hordemaster
+2 Pashalik Mons
+2 Moggcatcher
+2 Lightning Crafter
+2 Goblin Warchief
+2 Goblin Trashmaster
+2 Goblin Sharpshooter
+2 Goblin Lackey
+2 Goblin Chirurgeon
+2 Goblin Chieftain
+2 Thassa\'s Oracle
+2 Evacuation
+2 Merfolk Looter
+2 Magus of the Future
+2 Alrund's Epiphany
+2 Vigor
+2 Throne of the God-Pharaoh
+2 Squirrel Nest
+2 Epic Struggle
+2 Cathars' Crusade
+2 Nissa, Voice of Zendikar
+2 Elspeth, Knight-Errant
+2 Basri Ket
+2 Ajani, Adversary of Tyrants
+2 Gavony Township
+2 Castle Ardenvale
+2 Seasoned Pyromancer
+2 Thrilling Discovery
+2 Rite of Oblivion
+2 Inspiring Vantage
+2 Thassa, Deep-Dwelling
+2 Firestorm
+2 Whirlpool Warrior
+2 Sage of the Falls
+2 Pir, Imaginative Rascal
+2 Displace
+2 Tymna the Weaver
+2 Despark
+2 Void Mirror
+2 Tainted Field
+2 Ilharg, the Raze-Boar
+2 Grafted Exoskeleton
+2 Puresteel Paladin
+2 Silverblade Paladin
+2 Ajani, Caller of the Pride
+2 Umezawa's Jitte
+2 Stonehewer Giant
+2 Moon-Blessed Cleric
+2 Monarch Emblem
+2 Bruvac the Grandiloquent
+2 Retraced Image
+2 Maddening Cacophony
+2 Cursed Scroll
+2 Visions of Beyond
+2 Twincast
+2 Trusted Advisor
+2 Sakashima the Impostor
+2 Teferi's Tutelage
+2 Drowned Secrets
+2 Saw in Half
+2 Gaea's Blessing
+2 Rites of Flourishing
+2 Primal Vigor
+2 Manabond
+2 Evolutionary Leap
+2 Ichor Wellspring
+2 Force of Despair
+2 Marauding Blight-Priest
+2 Hero's Downfall
+2 Ghostway
+2 Cascading Cataracts
+2 Apex Devastator
+2 Seedtime
+2 Scuttlemutt
+2 Detection Tower
+2 Read the Bones
+2 Cauldron of Souls
+2 Riftsweeper
+2 Ziatora's Proving Ground
+2 Seasons Past
+2 Verity Circle
+2 Dream Halls
+2 Midnight Clock
+2 Saheeli, the Gifted
+2 Wipe Away
+2 Boomerang
+2 Ketria Triome
+2 Isshin, Two Heavens as One
+2 Esika, God of the Tree
+2 Kiora, Behemoth Beckoner
+2 Disenchant
+2 Seachrome Coast
+2 Rhonas's Monument
+2 Wheel of Sun and Moon
+2 Karametra, God of Harvests
+2 Archon of Valor's Reach
+2 Burnished Hart
+2 Argentum Armor
+2 Scarecrone
+2 Suppression Field
+2 Tiamat
+2 Hellkite Courser
+2 Emblem Liliana of the Dark Realms
+2 Killing Wave
+2 Vampire Nighthawk
+2 Phyrexian Obliterator
+2 Magus of the Coffers
+2 Defiant Bloodlord
+2 Nyx Lotus
+2 Grove of the Burnwillows
+2 Kodama of the East Tree
+2 Cloud of Faeries
+2 Scour from Existence
+2 Oblivion Sower
+2 Meteor Golem
+2 Endbringer
+2 Artisan of Kozilek
+2 Introduction to Annihilation
+2 Sanctum of Eternity
+2 Eye of Ugin
+2 Eldrazi Temple
+2 Treasure Map
+2 Crawlspace
+2 Vivien on the Hunt
+2 Gerrard, Weatherlight Hero
+2 Nevinyrral's Disk
+2 Mycosynth Wellspring
+2 Tezzeret, Betrayer of Flesh
+2 Fault Line
+2 Comet Storm
+2 Chandra's Incinerator
+2 Rob the Archives
+2 Reckless Impulse
+2 Molten Disaster
+2 Jaya's Immolating Inferno
+2 Earthquake
+2 Kunoros, Hound of Athreos
+2 Thermo-Alchemist
+2 Psychic Corrosion
+2 Basilisk Collar
+2 Torbran, Thane of Red Fell
+2 Guttersnipe
+2 Desolate Lighthouse
+2 Day's Undoing
+2 Wizard's Retort
+2 Sundown Pass
+2 Duelist's Heritage
+2 Season of Growth
+2 Emblem Daretti, Scrap Savant
+2 Ionize
+2 Field of Ruin
+2 Mind's Dilation
+2 Duplicant
+2 Combustible Gearhulk
+2 Steel of the Godhead
+2 Aqueous Form
+2 Generator Servant
+2 Spelltwine
+2 Mind's Desire
+2 Yasharn, Implacable Earth
+2 Teshar, Ancestor's Apostle
+2 Sigarda, Host of Herons
+2 Kytheon, Hero of Akros
+2 Kamahl, Fist of Krosa
+2 Brago, King Eternal
+2 Venser, the Sojourner
+2 Jace, Unraveler of Secrets
+2 Ajani Steadfast
+2 Luxior, Giada's Gift
+2 Silent Arbiter
+2 Lae'zel, Vlaakith's Champion
+2 Flux Channeler
+2 Life of the Party
+2 Urabrask the Hidden
+2 Loyal Apprentice
+2 Aerial Extortionist
+2 Ghostly Prison
+2 Fog
+2 Kambal, Consul of Allocation
+2 Archfiend of Depravity
+2 Fell the Mighty
+2 Dolmen Gate
+2 Vault of the Archangel
+2 Soltari Champion
+2 Liesa, Forgotten Archangel
+2 Fireflux Squad
+2 Devilish Valet
+2 Delina, Wild Mage
+2 Renegade Rallier
+2 Robe of Stars
+2 Solitary Confinement
+2 Phyresis
+2 Detention Sphere
+2 Daybreak Coronet
+2 Warstorm Surge
+2 The Abyss
+2 Bazaar of Baghdad
+2 Sensei\'s Divining Top
+2 In Garruk's Wake
+2 Pontiff of Blight
+2 Necroskitter
+2 Midnight Banshee
+2 Archon of Cruelty
+2 Nephalia Academy
+2 Cabal Stronghold
+2 Strixhaven Stadium
+2 Mana Geode
+2 Coldsteel Heart
+2  *list*
+2 Elvish Piper
+2 Pendelhaven
+2 Tajuru Preserver
+2 Quirion Elves
+2 Leaf-Crowned Visionary
+2 Essence Warden
+2 Elvish Harbinger
+2 Tyrant's Familiar
+2 Skyline Despot
+2 Mana-Charged Dragon
+2 Kilnmouth Dragon
+2 Ganax, Astral Hunter
+2 Drakuseth, Maw of Flames
+2 Dragonlord Atarka
+2 Ancient Bronze Dragon
+2 Scute Swarm
+2 Titania, Protector of Argoth
+2 Ancient Greenwarden
+2 Hall of Gemstone
+2 Realms Uncharted
+2 Storm Cauldron
+2 Nissa, Vital Force
+2 Runaway Steam-Kin
+2 Dire Fleet Daredevil
+2 Recoup
+2 Grapeshot
+2 Cathartic Reunion
+2 Elephant 3/3 G
+2 Cathodion
+2 Remote Farm
+2 Salvage Scout
+2 Treachery
+2 Monastery Siege
+2 Mana Vortex
+2 In the Eye of Chaos
+2 Arcane Laboratory
+2 Eon Frolicker
+2 Eater of Days
+2 Chronatog
+2 Magosi, the Waterveil
+2 Possessed Portal
+2 Mindslaver
+2 Whitemane Lion
+2 Cryptolith Rite
+2 Auriok Salvagers
+2 Skyfisher Spider
+2 Arasta of the Endless Web
+2 Deathcap Glade
+2 Terminate
+2 Cathartic Pyre
+2 Ash Barrens
+2 Azra Oddsmaker
+2 Mayhem Devil
+2 Dosan the Falling Leaf
+2 Fleshbag Marauder
+2 Whispering Madness
+2 Palladium Myr
+2 Mana Leak
+2 Storage Matrix
+2 Emerald Charm
+2 Omnath, Locus of Mana
+2 Generous Patron
+2 Kavu Lair
+2 Overwhelming Stampede
+2 Primordial Hydra
+2 Nessian Game Warden
+2 Grothama, All-Devouring
+2 End-Raze Forerunners
+2 Suspend
+2 Thirst for Knowledge
+2 You Come to a River
+2 Key to the City
+2 Invisible Stalker
+2 Gingerbrute
+2 Witch's Clinic
+2 Reflections of Littjara
+2 Turn Aside
+2 Memory's Journey
+2 Tidespout Tyrant
+2 Shrieking Drake
+2 Corridor Monitor
+2 Chakram Retriever
+2 Bounding Krasis
+2 Experience Token
+2 Torrential Gearhulk
+2 Thousand-Year Storm
+2 Reality Spasm
+2 Firemind's Foresight
+2 Fall of the Titans
+2 Archmage's Charm
+2 Verduran Enchantress
+2 Sythis, Harvest's Hand
+2 Sram, Senior Edificer
+2 Siona, Captain of the Pyleas
+2 Setessan Champion
+2 Satyr Enchanter
+2 Kediss, Emberclaw Familiar
+2 Argothian Enchantress
+2 Shield of the Oversoul
+2 Setessan Training
+2 Flickering Ward
+2 Ethereal Armor
+2 Enchantress's Presence
+2 Stinging Study
+2 Well of Lost Dreams
+2 Skycloud Expanse
+2 Darkwater Catacombs
+2 Pyroclasm
+2 Weathered Runestone
+2 Portable Hole
+2 Luminarch Ascension
+2 Sanctum Prelate
+2 Tragic Slip
+2 Bastion of Remembrance
+2 Kessig Wolf Run
+2 Twilight Prophet
+2 Erebos, God of the Dead
+2 Pyrokinesis
+2 Slip Through Space
+2 Chandra's Ignition
+2 Temur Battle Rage
+2 Shadow Rift
+2 Master of Cruelties
+2 Bloodgift Demon
+2 Rugged Prairie
+2 Apostle's Blessing
+2 Seal of Cleansing
+2 Brainstone
+2 Aether Vial
+2 Workshop Assistant
+2 Salvager of Ruin
+2 Restoration Specialist
+2 Perilous Myr
+2 Junk Diver
+2 Ingenious Smith
+2 Arcbound Ravager
+2 Shreds of Sanity
+2 Battle Hymn
+2 Darksteel Ingot
+2 Mirrodin Besieged
+2 Hurkyl's Recall
+2 Temple of Epiphany
+2 Frostboil Snarl
+2 Beseech the Queen
+2 Mox Tantalite
+2 Temple of Deceit
+2 Creeping Tar Pit
+2 Celestial Colonnade
+2 Replenish
+2 Merciless Eviction
+2 Austere Command
+2 Revel in Riches
+2 Humility
+2 Greater Auramancy
+2 City's Blessing
+2 Lifecrafter's Bestiary
+2 Shamanic Revelation
+2 Vines of Vastwood
+2 Return of the Wildspeaker
+2 Momentous Fall
+2 Sliver Queen
+2 Gemhide Sliver
+2 Crystalline Sliver
+2 Cloudshredder Sliver
+2 Basal Sliver
+2 Amoeboid Changeling
+2 Arcum's Astrolabe
+2 Elemental 4/4 UR
+2 Daze
+2 Welding Jar
+2 Cloud Key
+2 Sacrifice
+2 Vengeful Dead
+2 Mutilate
+2 Syphon Mind
+2 Sickening Dreams
+2 Bitter Ordeal
+2 Black Market
+2 Tower of the Magistrate
+2 Mishra's Factory
+2 Persist
+2 Body Snatcher
+2 Melira, Sylvok Outcast
+2 Lesser Masticore
+2 Defile
+2 Haunted One
+2 Champion's Helm
+2 The Immortal Sun
+2 Retract
+2 Myojin of Infinite Rage
+2 Etali, Primal Storm
+2 Cityscape Leveler
+2 Wyll's Reversal
+2 Spell Snare
+2 Snake 1/1 B
+2 Body Launderer
+2 Contamination
+2 Bitterblossom
+2 Collective Brutality
+2 Ulcerate
+2 Ancient Brass Dragon
+2 Spike Weaver
+2 Jarad, Golgari Lich Lord
+2 Apprentice Necromancer
+2 Haywire Mite
+2 Glimpse of Nature
+2 Myr Scrapling
+2 Planar Void
+2 Geth's Grimoire
+2 Necrogen Mists
+2 Bottomless Pit
+2 Vicious Rumors
+2 Delirium Skeins
+2 Dark Deal
+2 Words of Waste
+2 Noetic Scales
+2 Dragon 6/6 R
+2 Dragon 5/5 R
+2 Dragon 4/4 R
+2 Braid of Fire
+2 Sundial of the Infinite
+2 Pyre of Heroes
+2 Orb of Dragonkind
+2 Mind's Eye
+2 Endless Atlas
+2 Undead Warchief
+2 Tormod, the Desecrator
+2 Diregraf Colossus
+2 Diregraf Captain
+2 Death Baron
+2 Cryptbreaker
+2 Cleansing Nova
+2 Rooftop Storm
+2 Unholy Grotto
+2 Alchemist's Retrieval
+2 Vigean Graftmage
+2 Flayer of the Hatebound
+2 Drana, the Last Bloodchief
+2 Drana, Liberator of Malakir
+2 Dack's Duplicate
+2 Eerie Ultimatum
+2 Legions to Ashes
+2 Vorinclex, Monstrous Raider
+2 Carth the Lion
+2 Tamiyo, Field Researcher
+2 Aminatou, the Fateshifter
+2 Shapeshifter 2/2 U
+2 Morph 2/2 C
+2 You Find Some Prisoners
+2 Stoke the Flames
+2 Reverberate
+2 Galvanic Blast
+2 Survivors' Encampment
+2 Holdout Settlement
+2 Barbarian Ring
+2 Xorn
+2 Spark Mage
+2 Liberated Dwarf
+2 Enslaved Dwarf
+2 Dwarven Trader
+2 Dwarven Scorcher
+2 Dwarven Grunt
+2 Dwarven Armorer
+2 Bloodline Pretender
+2 Bloodfire Dwarf
+2 Liquimetal Coating
+2 High-Speed Hoverbike
+2 Ashnod's Transmogrant
+2 \n    \xc2\xa0
+2 Mind Twist
+2 Kess, Dissident Mage
+2 Smoldering Marsh
+2 Siren Stormtamer
+2 Mausoleum Wanderer
+2 Agadeem's Awakening
+2 Burnt Offering
+2 Palinchron
+2 Jarad's Orders
+2 Dread Return
+2 Reclaim
+2 Shapeshifter 3/2 C
+2 Eldrazi Conscription
+2 Crackle with Power
+2 Olivia Voldaren
+2 Myojin of Night's Reach
+2 Shadowblood Ridge
+2 Kindred Summons
+2 Awakening
+2 Drumbellower
+2 Nylea's Intervention
+2 Skyshroud Poacher
+2 The Great Aurora
+2 Grand Crescendo
+2 Dreamroot Cascade
+2 Constant Mists
+2 Summer Bloom
+2 Sakura-Tribe Scout
+2 Pestilence
+2 Grasp of Darkness
+2 Xiahou Dun, the One-Eyed
+2 Asmodeus the Archfiend
+1 Guttural Response
+1 Pathrazer of Ulamog
+1 Lightning-Rig Crew
+1 Indulgent Tormentor
+1 Dire Fleet Ravager
+1 Cryptolith Fragment
+1 Sanctum of Stone Fangs
+1 Tainted Peak
+1 Searstep Pathway
+1 Haunted Ridge
+1 Tree of Perdition
+1 Stormfist Crusader
+1 Spear Spewer
+1 Shepherd of Rot
+1 Plague Spitter
+1 Nullstone Gargoyle
+1 Nettle Drone
+1 Neheb, Dreadhorde Champion
+1 Lobber Crew
+1 K'rrik, Son of Yawgmoth
+1 Knollspine Dragon
+1 Keen Duelist
+1 Hunted Horror
+1 Dread Cacodemon
+1 Distended Mindbender
+1 Disciple of Bolas
+1 Withered Wretch
+1 Cuombajj Witches
+1 Bloodhusk Ritualist
+1 Scrying Sheets
+1 Infernal Contract
+1 Naturalize
+1 Momentary Blink
+1 Ephemerate
+1 Cloudshift
+1 Hour of Revelation
+1 Devastation Tide
+1 Selfless Spirit
+1 Great Whale
+1 Flickerwisp
+1 Dauntless Escort
+1 Charming Prince
+1 Body Double
+1 Agent of Treachery
+1 Tidechannel Pathway
+1 Boulderloft Pathway
+1 Blighted Woodland
+1 Teferi, Who Slows the Sunset
+1 Sarkhan Vol
+1 Gideon, Martial Paragon
+1 Geyadrone Dihada
+1 Spirit Bonds
+1 Mortify
+1 Sengir Autocrat
+1 Marsh Flitter
+1 Geist-Honored Monk
+1 Elas il-Kor, Sadistic Pilgrim
+1 Meekstone
+1 Martyr's Bond
+1 Darkest Hour
+1 Martial Coup
+1 Lingering Souls
+1 Search for Glory
+1 Invoke Justice
+1 Treasure Keeper
+1 Thalia's Lancers
+1 Protector of the Crown
+1 Palisade Giant
+1 Palace Jailer
+1 Palace Guard
+1 Fountain Watch
+1 Sejiri Shelter
+1 Omen Machine
+1 Legion's Landing
+1 Karma
+1 The Wanderer
+1 Gideon of the Trials
+1 Idyllic Grange
+1 Bird 1/1 U
+1 Response / Resurgence
+1 Rampant Rejuvenator
+1 Polukranos, World Eater
+1 Nylea, Keen-Eyed
+1 Goreclaw, Terror of Qal Sisma
+1 Domesticated Hydra
+1 Stumpsquall Hydra
+1 Scourge of Skola Vale
+1 Evolution Sage
+1 Wren's Run Hydra
+1 Feral Hydra
+1 Capricopian
+1 Ram Through
+1 Master's Rebuke
+1 Bite Down
+1 Withstand Death
+1 Warriors' Lesson
+1 Tamiyo's Safekeeping
+1 Silkguard
+1 Charge Through
+1 Bala Ged Sanctuary
+1 Unbound Flourishing
+1 Branching Evolution
+1 Cream of the Crop
+1 Bonds of Mortality
+1 Whip Silk
+1 Nature's Way
+1 Whiptongue Hydra
+1 Ulvenwald Hydra
+1 Hydra Omnivore
+1 Hydra Broodmaster
+1 Kalonian Hydra
+1 Managorger Hydra
+1 Lifeblood Hydra
+1 Kodama of the West Tree
+1 Voracious Hydra
+1 Vastwood Hydra
+1 Steelbane Hydra
+1 Nexos
+1 Neverwinter Hydra
+1 Hooded Hydra
+1 Gyre Sage
+1 Genesis Hydra
+1 Protean Hydra
+1 Mistcutter Hydra
+1 Hungering Hydra
+1 Thassa, God of the Sea
+1 Stoic Angel
+1 Glenn, the Voice of Calm
+1 Cold-Eyed Selkie
+1 Deranged Hermit
+1 Prepare / Fight
+1 Ornamental Courage
+1 Hope and Glory
+1 Blessed Alliance
+1 Argivian Find
+1 Act of Heroism
+1 Regeneration
+1 The Rack
+1 Mask of Avacyn
+1 Iron Maiden
+1 Mobilize
+1 Flicker
+1 Scattered Groves
+1 Riftstone Portal
+1 Anger
+1 Planewide Celebration
+1 Tamiyo, Collector of Tales
+1 Nissa, Worldwaker
+1 Nissa, Steward of Elements
+1 Jace, Cunning Castaway
+1 Jace Beleren
+1 Hydroid Krasis
+1 Tangle
+1 Respite
+1 Moment's Peace
+1 Growth Spiral
+1 Ethereal Haze
+1 Auramancer
+1 Thryx, the Sudden Storm
+1 Damping Matrix
+1 Scout's Warning
+1 Quicken
+1 Leap
+1 Cloak of Feathers
+1 Dovescape
+1 Repeal
+1 Phyrexian Unlife
+1 Liliana, the Last Hope
+1 Word of Command
+1 Kaya's Ghostform
+1 Victim of Night
+1 Malicious Affliction
+1 Cremate
+1 Thrull Parasite
+1 Magus of the Mirror
+1 Dread Presence
+1 Basilica Screecher
+1 Prismatic Omen
+1 Kismet
+1 Teferi, Mage of Zhalfir
+1 Ichor Rats
+1 Praetor's Counsel
+1 Catastrophe
+1 Tome of Legends
+1 Pearl Medallion
+1 Nettlecyst
+1 Bloodforged Battle-Axe
+1 Emeria, The Sky Ruin
+1 Sigarda's Aid
+1 Paladin Class
+1 Hokori, Dust Drinker
+1 Eight-and-a-Half-Tails
+1 Bronze Guardian
+1 Sword of Hearth and Home
+1 Kaldra Compleat
+1 Godsend
+1 Fireshrieker
+1 Colossus Hammer
+1 Batterskull
+1 Void Snare
+1 Pore Over the Pages
+1 Petals of Insight
+1 Mana Severance
+1 Invert / Invent
+1 Eruth, Tormented Prophet
+1 Volatile Fjord
+1 Twiddle
+1 Turnabout
+1 Cunning Wish
+1 Wish
+1 Uncovered Clues
+1 Quiet Speculation
+1 Pirate's Pillage
+1 Pieces of the Puzzle
+1 Mystic Retrieval
+1 Inspired Idea
+1 Hidden Strings
+1 Deep Analysis
+1 Call to Mind
+1 Burning Wish
+1 Masako the Humorless
+1 Thrumming Stone
+1 Energy Arc
+1 Vizier of Remedies
+1 Viridian Zealot
+1 Weird Harvest
+1 Regal Force
+1 Numot, the Devastator
+1 Niv-Mizzet, Dracogenius
+1 Memory Lapse
+1 Aminatou's Augury
+1 Nadir Kraken
+1 Keeper of the Accord
+1 Aboleth Spawn
+1 Felidar Retreat
+1 Venser, Shaper Savant
+1 Stonecloaker
+1 Monastery Mentor
+1 Lavinia of the Tenth
+1 Faerie Artisans
+1 Brazen Borrower
+1 Urza's Ruinous Blast
+1 Timeless Lotus
+1 Zacama, Primal Calamity
+1 Yoshimaru, Ever Faithful
+1 Yidris, Maelstrom Wielder
+1 Vega, the Watcher
+1 Thrasta, Tempest's Roar
+1 Sisay, Weatherlight Captain
+1 Shanid, Sleepers' Scourge
+1 Samut, Voice of Dissent
+1 Ratadrabik of Urborg
+1 Raff Capashen, Ship's Mage
+1 Marchesa, the Black Rose
+1 Maelstrom Wanderer
+1 Kira, Great Glass-Spinner
+1 Kethis, the Hidden Hand
+1 Jetmir, Nexus of Revels
+1 Ertai Resurrected
+1 Chulane, Teller of Tales
+1 Animar, Soul of Elements
+1 Abaddon the Despoiler
+1 Emblem Jace, Vryn's Prodigy
+1 Skithiryx, the Blight Dragon
+1 Lore Drakkis
+1 Triarch Praetorian
+1 Biophagus
+1 Unmask
+1 Elf Warrior 1/1 GW
+1 Secure the Wastes
+1 Rebuff the Wicked
+1 Druids' Repository
+1 Breath of Fury
+1 Bear Umbra
+1 Rushblade Commander
+1 Rhys the Redeemed
+1 Night Clubber
+1 Mayhem Patrol
+1 Mardu Shadowspear
+1 Lovisa Coldeyes
+1 Kargan Intimidator
+1 Herald of Dromoka
+1 Grand Warlord Radha
+1 Goblin Javelineer
+1 Decorated Champion
+1 Chief of the Scale
+1 Chief of the Edge
+1 Brighthearth Banneret
+1 Bramblewood Paragon
+1 Blood-Chin Rager
+1 Geosurge
+1 Flame Slash
+1 Jaxis, the Troublemaker
+1 Cryptic Trilobite
+1 Brass Squire
+1 Shatterskull, the Hammer Pass
+1 Thunderclap
+1 Starstorm
+1 Mine Collapse
+1 Magnetic Theft
+1 Perplexing Chimera
+1 Paradigm Shift
+1 Yannik, Scavenging Sentinel
+1 Vryn Wingmare
+1 Hardened Berserker
+1 Flameskull
+1 Filigree Familiar
+1 Cyclops Gladiator
+1 Conduit of Storms
+1 Clone Shell
+1 Chaos Channeler
+1 Catalyst Elemental
+1 Amber Gristle O'Maul
+1 Torch Courier
+1 Nautiloid Ship
+1 Bag of Holding
+1 Unlucky Witness
+1 Tyrant of Discord
+1 Robber of the Rich
+1 Reckless Barbarian
+1 Priest of Urabrask
+1 Plundering Barbarian
+1 Ox of Agonas
+1 Mirage Phalanx
+1 Markov Enforcer
+1 Inferno Titan
+1 Goldhound
+1 Firbolg Flutist
+1 Combat Celebrant
+1 Cavalier of Flame
+1 Avaricious Dragon
+1 Atsushi, the Blazing Sky
+1 Crystal Shard
+1 Knight of Autumn
+1 Ixidron
+1 Shaman of Forgotten Ways
+1 Kiora's Follower
+1 Dizzy Spell
+1 Blue Elemental Blast
+1 Utopia Tree
+1 Maraleaf Pixie
+1 Ilysian Caryatid
+1 Gyre Engineer
+1 Mindblade Render
+1 Djeru's Resolve
+1 Ugin's Nexus
+1 Mirror of Fate
+1 Dispatch
+1 Goblin 1/1 R
+1 Enchantment Golem 3/3 C
+1 Dragon Spirit 5/5 R
+1 Ruination
+1 Dwarven Ruins
+1 Splinter Twin
+1 Gauntlet of Might
+1 By Force
+1 Thermopod
+1 Goblin Wardriver
+1 Zuran Orb
+1 Threats Undetected
+1 Evolving Wilds
+1 Scavenging Ooze
+1 Elder Gargaroth
+1 Emblem Teferi, Temporal Archmage
+1 Pulse of the Grid
+1 Markov Purifier
+1 Voldaren Estate
+1 Falkenrath Pit Fighter
+1 Kalastria Highborn
+1 Nighthawk Scavenger
+1 Olivia, Crimson Bride
+1 Indulging Patrician
+1 Forerunner of the Legion
+1 Elenda, the Dusk Rose
+1 Mavren Fein, Dusk Apostle
+1 Vermin Gorger
+1 Vampire of the Dire Moon
+1 Tithe Drinker
+1 Cruel Celebrant
+1 Cordial Vampire
+1 Cemetery Gatekeeper
+1 Bloodline Keeper
+1 Ayara, First of Locthwain
+1 Gifted Aetherborn
+1 Sorin, Vengeful Bloodlord
+1 Greed
+1 Dark Prophecy
+1 New Blood
+1 Blood Tribute
+1 Emblem Chandra, Torch of Defiance
+1 Warlord's Fury
+1 Volcanic Fallout
+1 Thunderwave
+1 Tempting Contract
+1 Rile
+1 Renegade Tactics
+1 Flamebreak
+1 Fire Prophecy
+1 Expedite
+1 Crimson Wisps
+1 Crash Through
+1 Cave-In
+1 Varchild, Betrayer of Kjeldor
+1 Varchild's War-Riders
+1 Marching Duodrone
+1 Magda, Brazen Outlaw
+1 Impulsive Pilferer
+1 Hunted Dragon
+1 Humble Defector
+1 Goblin Spymaster
+1 Eidolon of the Great Revel
+1 Akroan Horse
+1 Koth of the Hammer
+1 Jaya Ballard
+1 Repercussion
+1 Pyrostatic Pillar
+1 Furnace of Rath
+1 Dictate of the Twin Gods
+1 AEther Flash
+1 Wild Guess
+1 Star of Extinction
+1 Reckless Endeavor
+1 Chain Reaction
+1 Bloodtracker
+1 Wizard Class
+1 Forge of Heroes
+1 Toothy, Imaginary Friend
+1 Thought Sponge
+1 River Kelpie
+1 Rankle, Master of Pranks
+1 Plaguecrafter
+1 Juri, Master of the Revue
+1 Iron Apprentice
+1 Gisa, Glorious Resurrector
+1 Canoptek Tomb Sentinel
+1 Krenko, Mob Boss
+1 Hazoret's Monument
+1 Mouth of Ronom
+1 Goblin Settler
+1 Goblin War Strike
+1 Rummaging Goblin
+1 Mogg Raider
+1 Goblin Sledder
+1 Goblin Ringleader
+1 Goblin Motivator
+1 Gempalm Incinerator
+1 Will Kenrith
+1 Wash Out
+1 Baral's Expertise
+1 Utter End
+1 Zombie */* U
+1 Zombie Army 0/0 B
+1 Human Cleric 1/1 BW
+1 Liliana, Death's Majesty
+1 Dread Summons
+1 Sinister Sabotage
+1 Eat to Extinction
+1 Blink of an Eye
+1 Liliana's Mastery
+1 Relentless Dead
+1 Noosegraf Mob
+1 Lord of the Accursed
+1 Grave Titan
+1 God-Eternal Kefnet
+1 Gleaming Overseer
+1 Geralf, Visionary Stitcher
+1 Cleaver Skaab
+1 Pemmin\'s Aura
+1 Kefnet the Mindful
+1 Gretchen Titchwillow
+1 Rimewood Falls
+1 Opposition
+1 Chasm Skulker
+1 Ice Floe
+1 Render Silent
+1 Proteus Staff
+1 Mystic Monastery
+1 Cat 1/1 W w/ Lifelink
+1 Angel 4/4 W w/ Vigilance
+1 Angel 4/4 W
+1 Phyrexian Rebirth
+1 Pest Infestation
+1 Finale of Glory
+1 Trostani, Selesnya's Voice
+1 Tendershoot Dryad
+1 Splitting Slime
+1 Rune-Tail, Kitsune Ascendant
+1 Darien, King of Kjeldor
+1 Biogenic Ooze
+1 Ancient Gold Dragon
+1 White Sun's Zenith
+1 March of the Multitudes
+1 Starlight Spectacular
+1 Sandwurm Convergence
+1 Rabble Rousing
+1 Legion Loyalty
+1 Glare of Subdual
+1 Court of Grace
+1 Awakening Zone
+1 Huatli, Radiant Champion
+1 Freyalise, Llanowar's Fury
+1 Windbrisk Heights
+1 Razorverge Thicket
+1 Mirrorpool
+1 Krosan Verge
+1 Priest of Fell Rites
+1 Flamescroll Celebrant
+1 Unburial Rites
+1 Rip Apart
+1 Painful Truths
+1 Swift Reconfiguration
+1 Lurrus of the Dream-Den
+1 Judge's Familiar
+1 Archfiend of Ifnir
+1 The Gitrog Monster
+1 Reshape the Earth
+1 Drain Power
+1 Conjurer's Closet
+1 Turn to Mist
+1 Selesnya Guildgate
+1 Rakdos Guildgate
+1 Orzhov Guildgate
+1 Maze's End
+1 Izzet Guildgate
+1 Gruul Guildgate
+1 Golgari Guildgate
+1 Gateway Plaza
+1 Dimir Guildgate
+1 Boros Guildgate
+1 Azorius Guildgate
+1 Insect 1/1 UR
+1 Ashnod\'s Altar
+1 Halimar Depths
+1 Sky Diamond
+1 Fire Diamond
+1 Heart Warden
+1 Starved Rusalka
+1 Parallax Wave
+1 Parallax Tide
+1 Opalescence
+1 Astral Cornucopia
+1 Crystalline Crawler
+1 Naru Meha, Master Wizard
+1 Misthollow Griffin
+1 Eternal Scourge
+1 Manipulate Fate
+1 Foresight
+1 Extract
+1 Reap
+1 Spelltithe Enforcer
+1 Rug of Smothering
+1 Leonin Arbiter
+1 Energy Refractor
+1 Shineshadow Snarl
+1 Orzhov Basilica
+1 Cultivator Colossus
+1 Plasm Capture
+1 Unexpected Results
+1 Zendikar Resurgent
+1 Izzet Boilerworks
+1 Gruul Turf
+1 Frontier Bivouac
+1 Shardless Agent
+1 Reef Worm
+1 Progenitor Mimic
+1 Phyrexian Ingester
+1 Molten Primordial
+1 Malignus
+1 Kruphix, God of Horizons
+1 Jace's Mindseeker
+1 Hornet Queen
+1 Etherium-Horn Sorcerer
+1 Bloodbraid Elf
+1 Acidic Slime
+1 Tireless Tribe
+1 Balan, Wandering Knight
+1 Vivien, Monsters' Advocate
+1 Time of Need
+1 Skyhunter Skirmisher
+1 Qasali Pridemage
+1 Lost Leonin
+1 Leonin Shikari
+1 Fleecemane Lion
+1 Feline Sovereign
+1 Chameleon Colossus
+1 Armored Skyhunter
+1 Alms Collector
+1 Adorned Pouncer
+1 Metamorphosis
+1 Fury
+1 Urza\'s Saga
+1 Terisian Mindbreaker
+1 Tasha's Hideous Laughter
+1 Sanity Grinding
+1 Fractured Sanity
+1 Sword of Body and Mind
+1 Jace, Memory Adept
+1 Thought Collapse
+1 Drown in Dreams
+1 Didn't Say Please
+1 Archive Trap
+1 Ruin Crab
+1 Riddlekeeper
+1 Overwhelmed Apprentice
+1 Manic Scribe
+1 Dreamborn Muse
+1 Mystic Redaction
+1 Memory Erosion
+1 Court of Cunning
+1 Shelldock Isle
+1 Ipnu Rivulet
+1 Witty Roastmaster
+1 Nadier's Nightblade
+1 Timeless Witness
+1 Living Plane
+1 Gaea's Touch
+1 Bequeathal
+1 Azusa's Many Journeys
+1 Courser of Kruphix
+1 Budoka Gardener
+1 Font of Mythos
+1 Witness Protection
+1 Approach of the Second Sun
+1 Loyal Drake
+1 Wavebreak Hippocamp
+1 Tainted Isle
+1 Cabal Pit
+1 Epicure of Blood
+1 Font of Agonies
+1 Without Weakness
+1 Unlikely Aid
+1 Rush of Vitality
+1 Professor's Warning
+1 Battle-Rage Blessing
+1 Armor of Shadows
+1 Nightscape Familiar
+1 Liliana's Caress
+1 Tezzeret, Master of the Bridge
+1 Tezzeret, Agent of Bolas
+1 Saheeli Rai
+1 Scrap Mastery
+1 Rite of Replication
+1 Open the Vaults
+1 Wingrattle Scarecrow
+1 Watchwing Scarecrow
+1 Tatterkite
+1 Shell Skulkin
+1 Rattleblaze Scarecrow
+1 Jawbone Skulkin
+1 Heap Doll
+1 Grim Poppet
+1 Fang Skulkin
+1 Clever Impersonator
+1 Blazethorn Scarecrow
+1 Antler Skulkin
+1 Worldspine Wurm
+1 Tarmogoyf
+1 Multani, Maro-Sorcerer
+1 Rat 1/1 B
+1 Tetzimoc, Primal Death
+1 Shadow Alley Denizen
+1 Orc Sureshot
+1 Ogre Slumlord
+1 Hex Parasite
+1 Harvester of Souls
+1 Geth, Lord of the Vault
+1 Dauthi Trapper
+1 Touch of Darkness
+1 Thrilling Encore
+1 Subtle Strike
+1 Ebony Charm
+1 Retribution of the Ancients
+1 Phyrexian Reclamation
+1 Dauthi Embrace
+1 Temporal Extortion
+1 Trip Noose
+1 Tooth of Chiss-Goria
+1 Scale of Chiss-Goria
+1 Sacred Armory
+1 Icy Manipulator
+1 Glaring Spotlight
+1 Distorting Lens
+1 Skullmulcher
+1 Xenagos, the Reveler
+1 Savage Lands
+1 Storm-Kiln Artist
+1 Sire of Stagnation
+1 Damnable Pact
+1 Cut of the Profits
+1 Soul Shatter
+1 Wurm 3/3 C w/ Lifelink
+1 Wurm 3/3 C w/ Deathtouch
+1 Thopter 1/1 C
+1 Servo 1/1 C
+1 Powerstone
+1 Myr 1/1 C
+1 Golem 3/3 C
+1 Emblem Tezzeret, Betrayer of Flesh
+1 Construct 4/4 C
+1 Boar 2/2 G
+1 Spell Swindle
+1 Masterful Replication
+1 AEtherize
+1 Vedalken Humiliator
+1 Shimmer Dragon
+1 Memnarch
+1 Curse of the Swine
+1 Retrofitter Foundry
+1 Echoing Truth
+1 Disperse
+1 Galazeth Prismari
+1 Wheel of Fate
+1 Veilstone Amulet
+1 Secluded Courtyard
+1 Morophon, the Boundless
+1 Teneb, the Harvester
+1 Miirym, Sentinel Wyrm
+1 Kaalia of the Vast
+1 Dragonspeaker Shaman
+1 Monster Manual
+1 Lapis Orb of Dragonkind
+1 Fist of Suns
+1 Carnelian Orb of Dragonkind
+1 Rotting Rats
+1 Mindlash Sliver
+1 Asylum Visitor
+1 Unnerve
+1 Tasigur's Cruelty
+1 Mire in Misery
+1 Mind Rake
+1 Arterial Flow
+1 Barbed Sextant
+1 Skycloud Egg
+1 Ratchet Bomb
+1 Idol of Endurance
+1 Heroes' Podium
+1 Sylvan Reclamation
+1 Saryth, the Viper's Fang
+1 Vexing Puzzlebox
+1 Sword of Light and Shadow
+1 Victory Chimes
+1 Unstable Obelisk
+1 Staff of Nin
+1 Transmogrifying Wand
+1 Sword of Sinew and Steel
+1 Null Brooch
+1 Lux Cannon
+1 Brittle Effigy
+1 Thran Temporal Gateway
+1 The Peregrine Dynamo
+1 Underdark Rift
+1 Labyrinth of Skophos
+1 Gargoyle Castle
+1 Possibility Storm
+1 Ob Nixilis, Unshackled
+1 Lord of the Void
+1 Hide / Seek
+1 Temur Ascendancy
+1 Spell Rupture
+1 Klauth's Will
+1 Dragon's Hoard
+1 Shadrix Silverquill
+1 Scion of the Ur-Dragon
+1 Scalelord Reckoner
+1 Kolaghan, the Storm's Fury
+1 Karrthus, Tyrant of Jund
+1 Iymrith, Desert Doom
+1 Glorybringer
+1 Dromoka, the Eternal
+1 Dragonlord Kolaghan
+1 Broodmate Dragon
+1 Bladewing the Risen
+1 Beledros Witherbloom
+1 Temple of the Dragon Queen
+1 Crucible of the Spirit Dragon
+1 Finale of Eternity
+1 Ever After
+1 Diabolic Revelation
+1 Command the Dreadhorde
+1 Beacon of Unrest
+1 Sangromancer
+1 Pestilence Demon
+1 Dread Shade
+1 Butcher of Malakir
+1 Venser's Journal
+1 Gauntlet of Power
+1 Blackblade Reforged
+1 Ainok Survivalist
+1 Vizier of the Menagerie
+1 Tishana, Voice of Thunder
+1 Riverwise Augur
+1 Rishkar, Peema Renegade
+1 Rattleclaw Mystic
+1 Man-o'-War
+1 Gurmag Drowner
+1 Fblthp, the Lost
+1 Den Protector
+1 Beastcaller Savant
+1 Hedron Matrix
+1 Warping Wail
+1 Not of This World
+1 Voltaic Servant
+1 Geode Golem
+1 Tomb of the Spirit Dragon
+1 Crystal Grotto
+1 Stonespeaker Crystal
+1 Prototype Portal
+1 Mazemind Tome
+1 Karn's Sylex
+1 Investigator's Journal
+1 Inspiring Statuary
+1 Claim the Firstborn
+1 Mistmoon Griffin
+1 Daretti, Ingenious Iconoclast
+1 Access Denied
+1 Thopter Assembly
+1 Arcum Dagsson
+1 Time Sieve
+1 Thopter Foundry
+1 Sword of the Meek
+1 Venom Sliver
+1 The First Sliver
+1 Striking Sliver
+1 Sliver Legion
+1 Sliver Hivelord
+1 Shifting Sliver
+1 Sentinel Sliver
+1 Sedge Sliver
+1 Root Sliver
+1 Quick Sliver
+1 Necrotic Sliver
+1 Magma Sliver
+1 Lavabelly Sliver
+1 Hibernation Sliver
+1 Harmonic Sliver
+1 Galerider Sliver
+1 Brood Sliver
+1 Bonescythe Sliver
+1 Tibalt\'s Trickery
+1 Bonders\' Enclave
+1 Pyrohemia
+1 Sceptre of Eternal Glory
+1 Forgotten Cave
+1 Desert of the Fervent
+1 Arch of Orazca
+1 Storm King's Thunder
+1 Price of Progress
+1 Invoke Calamity
+1 Commune with Lava
+1 Toralf, God of Fury
+1 Kessig Flamebreather
+1 Firebrand Archer
+1 Light Up the Stage
+1 Ignite the Future
+1 Flame Rift
+1 Fiery Confluence
+1 Breath of Darigaaz
+1 Apex of Power
+1 Acidic Soil
+1 Oath of Nissa
+1 Oath of Chandra
+1 Sygg, River Cutthroat
+1 Reminisce
+1 Stranglehold
+1 Telling Time
+1 Learn from the Past
+1 Electrostatic Field
+1 Clear the Mind
+1 Teferi's Time Twist
+1 Portal Mage
+1 Vineglimmer Snarl
+1 Mesa Enchantress
+1 Spectacular Showdown
+1 Mossfire Valley
+1 Contested Cliffs
+1 Unquestioned Authority
+1 Flaming Fist
+1 Battle Mastery
+1 Rune of Might
+1 Dragon Scales
+1 Dragon Fangs
+1 White Scarab
+1 Red Scarab
+1 Hyena Umbra
+1 Green Scarab
+1 Blue Scarab
+1 Black Scarab
+1 Emblem Tezzeret, Artifice Master
+1 Stoic Rebuttal
+1 Dissolve
+1 Dissipate
+1 Platinum Emperion
+1 Pentad Prism
+1 Ancestral Knowledge
+1 Storm Herd
+1 Divine Reckoning
+1 Vivien, Champion of the Wilds
+1 Garruk Wildspeaker
+1 Tomik, Distinguished Advokist
+1 Tocatli Honor Guard
+1 Sigarda, Heron's Grace
+1 Michiko Konda, Truth Seeker
+1 Loyal Retainers
+1 Jace, Architect of Thought
+1 Reins of Power
+1 Mandate of Peace
+1 Peacekeeper
+1 War Tax
+1 Smoke
+1 Resourceful Defense
+1 Ral, Izzet Viceroy
+1 Dovin Baan
+1 Chandra, Awakened Inferno
+1 Call the Gatewatch
+1 Wall of Denial
+1 Baird, Steward of Argive
+1 Archon of Absolution
+1 Archangel of Tithes
+1 Bedlam
+1 Vengeful Ancestor
+1 Subira, Tulzidi Caravanner
+1 Spirit en-Dal
+1 Soltari Visionary
+1 Soltari Foot Soldier
+1 Sidar Kondo of Jamuraa
+1 Odric, Master Tactician
+1 Jared Carthalion, True Heir
+1 Grenzo, Havoc Raiser
+1 Geode Rager
+1 Gahiji, Honored One
+1 Blade Historian
+1 Baeloth Barrityl, Entertainer
+1 Athreos, God of Passage
+1 Anafenza, the Foremost
+1 Crackdown
+1 Holy Day
+1 Serra Paragon
+1 Reidane, God of the Worthy
+1 Jazal Goldmane
+1 Retribution of the Meek
+1 Debt to the Deathless
+1 Akroan Hoplite
+1 Inkshield
+1 Captain's Claws
+1 Mardu Ascendancy
+1 Divine Visitation
+1 Winota, Joiner of Forces
+1 Squee, Dubious Monarch
+1 Skyknight Vanguard
+1 Signal Pest
+1 Ogre Battledriver
+1 Leonin Warleader
+1 Krenko, Tin Street Kingpin
+1 Karazikar, the Eye Tyrant
+1 Hero of Bladehold
+1 Hellrider
+1 Hanweir Garrison
+1 Emberwilde Captain
+1 Commissar Severina Raine
+1 Brutal Hordechief
+1 Bruse Tarl, Boorish Herder
+1 Aurelia, the Warleader
+1 Adriana, Captain of the Guard
+1 Extraction Specialist
+1 Boonweaver Giant
+1 Smallpox
+1 Aegis of the Gods
+1 Uba Mask
+1 Vanishing
+1 Prison Term
+1 Mirrormade
+1 Estrid's Invocation
+1 Diplomatic Immunity
+1 Nimbus Maze
+1 Elemental 5/5 RG
+1 Mina and Denn, Wildborn
+1 Where Ancients Tread
+1 Valakut Exploration
+1 Nissa's Pilgrimage
+1 Dire-Strain Rampage
+1 Eureka
+1 Nether Void
+1 Invoke Prejudice
+1 Drop of Honey
+1 Divine Intervention
+1 Diamond Valley
+1 Cathedral of War
+1 Altar of the Pantheon
+1 Bolas\'s Citadel
+1 Plague Wind
+1 Invoke Despair
+1 Dredge the Mire
+1 Sludge Monster
+1 Defiler of Flesh
+1 Blightbeetle
+1 Squelch
+1 Witch's Cottage
+1 Witchbane Orb
+1 Decanter of Endless Water
+1 Contagion Engine
+1 Contagion Clasp
+1 Caller of the Claw
+1 Leyline of Abundance
+1 Vanquisher's Banner
+1 Tyvar Kell
+1 Pact of the Serpent
+1 Crippling Fear
+1 Necroblossom Snarl
+1 Gilt-Leaf Palace
+1 Yeva, Nature's Herald
+1 Wellwisher
+1 Wall of Blood
+1 Timberwatch Elf
+1 Ruthless Winnower
+1 Quillspike
+1 Phyrexian Devourer
+1 Immaculate Magistrate
+1 Gilt-Leaf Archdruid
+1 Ezuri, Renegade Leader
+1 Elvish Champion
+1 Copperhorn Scout
+1 Nature\'s Lore
+1 Emblem Nissa, Vital Force
+1 Beast 4/4 G
+1 Sandstone Oracle
+1 Rampaging Baloths
+1 Mishra's Helix
+1 Horn of Greed
+1 Jeska, Thrice Reborn
+1 Jeska\'s Will
+1 Conspiracy Theorist
+1 Trash for Treasure
+1 Seize the Spoils
+1 Goblin Lore
+1 Control of the Court
+1 Change of Fortune
+1 Illusion */* U
+1 Soul Partition
+1 Skyscanner
+1 Circuit Mender
+1 Raffine's Informant
+1 Shriekhorn
+1 Ghoulcaller's Bell
+1 Engineered Explosives
+1 Wondrous Crucible
+1 Zur's Weirding
+1 Squeeze
+1 Psychic Battle
+1 Pendrell Mists
+1 Energy Field
+1 Confounding Conundrum
+1 AEther Barrier
+1 Tidal Barracuda
+1 Thawing Glaciers
+1 Teferi's Isle
+1 Rishadan Port
+1 Forsaken City
+1 Show and Tell
+1 Sands of Time
+1 Psychogenic Probe
+1 Portcullis
+1 Orb of Dreams
+1 Eon Hub
+1 Jeskai Ascendancy
+1 The Phasing of Zhalfir
+1 Kykar, Wind's Fury
+1 Mystic Speculation
+1 Tinker
+1 Spoils of the Vault
+1 Revoke Existence
+1 Darksteel Mutation
+1 Tolarian Academy
+1 Karakas
+1 Insect 1/1 BG
+1 Emblem Vraska, Golgari Queen
+1 Emblem Lolth, Spider Queen
+1 Vraska, Relic Seeker
+1 Grisly Salvage
+1 Arachnogenesis
+1 Perpetual Timepiece
+1 Vraska, Golgari Queen
+1 Lolth, Spider Queen
+1 Grist, the Hunger Tide
+1 Maelstrom Pulse
+1 Twin-Silk Spider
+1 Stingerfling Spider
+1 Silklash Spider
+1 Rotwidow Pack
+1 Nyx Weaver
+1 Deadly Recluse
+1 Blightwidow
+1 Arachnus Spinner
+1 Acid Web Spider
+1 Cemetery Tampering
+1 Arachnus Web
+1 Swarmyard
+1 Slitherbore Pathway
+1 Dakmor Salvage
+1 Rakdos Charm
+1 Dreadbore
+1 Sharuum the Hegemon
+1 Megatron, Tyrant
+1 Mishra, Tamer of Mak Fawa
+1 Ashnod the Uncaring
+1 Urza, Lord Protector
+1 The Mightstone and Weakstone
+1 Biotransference
+1 Razortide Bridge
+1 Goat 0/1 W
+1 Pernicious Deed
+1 Winding Constrictor
+1 Shriekmaw
+1 Satyr Wayfinder
+1 Golgari Grave-Troll
+1 Mystic Subdual
+1 Artificer's Epiphany
+1 Thieving Skydiver
+1 Myr Galvanizer
+1 Telepathy
+1 Glasses of Urza
+1 Viridian Revel
+1 Tail Swipe
+1 Once Upon a Time
+1 Turntimber, Serpentine Wood
+1 Voyaging Satyr
+1 Ulvenwald Tracker
+1 Skullwinder
+1 Krosan Wayfarer
+1 Heartwood Storyteller
+1 Glademuse
+1 Elephant 3-3 G
+1 Gaea\'s Cradle
+1 Sylvan Anthem
+1 Yorvo, Lord of Garenbrig
+1 Vorapede
+1 Steel Leaf Champion
+1 Silvos, Rogue Elemental
+1 Questing Beast
+1 Primalcrux
+1 Leatherback Baloth
+1 Khalni Hydra
+1 Garruk's Packleader
+1 Bellowing Tanglewurm
+1 Aeve, Progenitor Ooze
+1 Cabal Initiate
+1 Banehound
+1 Lazotep Plating
+1 Cavern Harpy
+1 Otherworldly Gaze
+1 Hostile Negotiations
+1 River of Tears
+1 Choked Estuary
+1 Devil 1/1 R
+1 Be\'Lakor, the Dark Master
+1 Kindred Charge
+1 The Golden Throne
+1 Varragoth, Bloodsky Sire
+1 Reaper from the Abyss
+1 Raphael, Fiendish Savior
+1 Rakdos, the Showstopper
+1 Rakdos, Lord of Riots
+1 Plague Drone
+1 Lord of Change
+1 Lord Xander, the Collector
+1 Herald of Slaanesh
+1 Gyruda, Doom of Depths
+1 Great Unclean One
+1 Exalted Flamer of Tzeentch
+1 Dream Devourer
+1 Desecration Demon
+1 Demon of Catastrophes
+1 Bloodthirster
+1 Bloodcrusher of Khorne
+1 Blood Speaker
+1 Abyssal Persecutor
+1 Mark of the Oni
+1 Liliana's Contract
+1 Temple of Malice
+1 Crumbling Necropolis
+1 Crosis's Catacombs
+1 Prime Speaker Vannifar
+1 Snakeskin Veil
+1 Ranger's Guile
+1 Mizzium Skin
+1 Cerulean Wisps
+1 Blossoming Defense
+1 Renewing Touch
+1 Piper's Melody
+1 Shield Sphere
+1 Sage of Hours
+1 Naga Vitalist
+1 Merrow Witsniper
+1 Harvester Druid
+1 Great Oak Guardian
+1 Ezuri, Claw of Progress
+1 Drover of the Mighty
+1 Breaching Hippocamp
+1 Emblem Dack Fayden
+1 Expressive Iteration
+1 Tectonic Edge
+1 Time Stop
+1 Silundi Vision
+1 Electrolyze
+1 Kor Spiritdancer
+1 Meltdown
+1 Jetmir's Garden
+1 Tilonalli's Crown
+1 Sage's Reverie
+1 Messenger's Speed
+1 Mark of Fury
+1 Mantle of the Ancients
+1 Escape Velocity
+1 Audacity
+1 Armadillo Cloak
+1 Ancestral Mask
+1 Trade Routes
+1 Chart a Course
+1 Mindlock Orb
+1 Nimble Obstructionist
+1 Shadow of Doubt
+1 Savor the Moment
+1 Essence Pulse
+1 Elminster
+1 Cosmos Elixir
+1 Grafdigger\'s Cage
+1 Emeria's Call
+1 Roadside Reliquary
+1 Scrapyard Recombiner
+1 Sanctifier en-Vec
+1 Samurai of the Pale Curtain
+1 Ranger of Eos
+1 Ashiok, Nightmare Weaver
+1 Uro, Titan of Nature's Wrath
+1 Scepter of Celebration
+1 Indulge / Excess
+1 Vindictive Vampire
+1 Sadistic Hypnotist
+1 Poison-Tip Archer
+1 Proteus Machine
+1 Axgard Cavalry
+1 Academy Manufactor
+1 Okaun, Eye of Chaos
+1 Krark's Thumb
+1 Planar Chaos
+1 Chance Encounter
+1 Tavern Scoundrel
+1 Krark, the Thumbless
+1 Frenetic Efreet
+1 Sokenzan, Crucible of Defiance
+1 Winter Sky
+1 Stitch in Time
+1 Izzet Charm
+1 Fling
+1 Savage Summoning
+1 Wall of Blossoms
+1 Reckless Fireweaver
+1 Fireblade Charger
+1 Karplusan Forest
+1 Thundermaw Hellkite
+1 Rakdos the Defiler
+1 Chancellor of the Annex
+1 Burning-Rune Demon
+1 Angel of Serenity
+1 Angel of Despair
+1 Sea Gate, Reborn
+1 Planar Incision
+1 Tithe
+1 Oblation
+1 Mana Tithe
+1 Illumination
+1 Fateful Absence
+1 The Restoration of Eiganjo
+1 Thermal Navigator
+1 Starnheim Courser
+1 Myr Moonvessel
+1 Jailbreak
+1 Bloodthirsty Adversary
+1 Prismari Command
+1 Founding the Third Path
+1 Ral, Storm Conduit
+1 Increasing Vengeance
+1 Shared Discovery
+1 Ephemeral Shields
+1 Needleverge Pathway
+1 Azorius Chancery
+1 Slobad, Goblin Tinkerer
+1 Enthusiastic Mechanaut
+1 Rebuild
+1 Spellbook
+1 Illicit Shipment
+1 Wash Away
+1 Temple of Silence
+1 Temple of Enlightenment
+1 Shambling Vent
+1 Sphinx's Revelation
+1 Faith's Reward
+1 Vizkopa Guildmage
+1 Children of Korlis
+1 Overburden
+1 Monologue Tax
+1 Mechanized Production
+1 Life Insurance
+1 Karmic Justice
+1 Dovin, Hand of Control
+1 Might of Old Krosa
+1 Invigorate
+1 Sheltering Ancient
+1 Relic Golem
+1 Ravaging Riftwurm
+1 Phyrexian Soulgorger
+1 Phyrexian Dreadnought
+1 Nessian Boar
+1 Lupine Prototype
+1 Hyrax Tower Scout
+1 Unnatural Selection
+1 Arcane Adaptation
+1 Natural State
+1 Zirda, the Dawnwaker
+1 Zhur-Taa Druid
+1 Heart Sliver
+1 Blur Sliver
+1 Temporary Lockdown
+1 Saprazzan Skerry
+1 Witching Well
+1 Imposter Mech
+1 Manifest 2/2 C
+1 Riddlesmith
+1 Millikin
+1 Cathartic Adept
+1 Artificer's Assistant
+1 Test of Talents
+1 Foil
+1 Disrupt
+1 Moonsnare Prototype
+1 Claws of Gix
+1 Winding Canyons
+1 Polluted Mire
+1 Barren Moor
+1 Death Wish
+1 Soldevi Adnate
+1 Xenic Poltergeist
+1 Stitch Together
+1 Necrologia
+1 Carrion
+1 Deathgreeter
+1 Feldon's Cane
+1 Gravestorm
+1 Ancient Craving
+1 Ambition's Cost
+1 Strands of Night
+1 Haunted Crossroads
+1 Dawn of the Dead
+1 Vengeful Vampire
+1 Sightless Ghoul
+1 Geralf's Messenger
+1 Evernight Shade
+1 Butcher Ghoul
+1 Everglades
+1 Activated Sleeper
+1 Wake the Dead
+1 Life / Death
+1 Footsteps of the Goryo
+1 Bone Shards
+1 Grim Flayer
+1 Disciple of the Vault
+1 Blooming Marsh
+1 Astarion\'s Thirst
+1 Night\'s Whisper
+1 Whispering Specter
+1 Plague Stinger
+1 Plague Myr
+1 Gix's Command
+1 Sinkhole
+1 Astarion's Thirst
+1 Nightmare Lash
+1 Lashwrithe
+1 Heraldic Banner
+1 Sword of the Chosen
+1 Cranial Plating
+1 Skyblinder Staff
+1 O-Naginata
+1 Eater of Virtue
+1 Bonesplitter
+1 Mystic Reflection
+1 Mirror Box
+1 Volcanic Torrent
+1 Triplicate Titan
+1 Stonecoil Serpent
+1 Cerebral Vortex
+1 Summary Dismissal
+1 Nix
+1 Glittering Stockpile
+1 Faerie Rogue 1/1 B
+1 Out of the Tombs
+1 Dark Tutelage
+1 Tainted Wood
+1 Underrealm Lich
+1 Lord of Extinction
+1 World Shaper
+1 Druid of Purification
+1 Vampire Hexmage
+1 Hermit Druid
+1 Stitcher's Supplier
+1 Mezzio Mugger
+1 Ivory Tower
+1 Currency Converter
+1 Professor Onyx
+1 Wrench Mind
+1 Tourach, Dread Cantor
+1 Raven's Crime
+1 Painful Quandary
+1 Oppression
+1 Dragon Illusion */* R
+1 Wrathful Red Dragon
+1 Sarkhan, Fireblood
+1 Sarkhan the Masterless
+1 Valakut, the Molten Pinnacle
+1 Spinerock Knoll
+1 Madblind Mountain
+1 Isolated Watchtower
+1 Blazing Shoal
+1 Thunderbreak Regent
+1 Stormbreath Dragon
+1 Spawn of Thraxes
+1 Minion of the Mighty
+1 Manaform Hellkite
+1 Feldon of the Third Path
+1 Dragon Mage
+1 Akoum Hellkite
+1 Price of Glory
+1 Molten Echoes
+1 Industrial Advancement
+1 Tel-Jilad Stylus
+1 Thoughtpicker Witch
+1 Liliana, Untouched By Death
+1 Rise of the Dread Marn
+1 Nevinyrral, Urborg Tyrant
+1 Gempalm Polluter
+1 Noxious Ghoul
+1 Hordewing Skaab
+1 Havengul Lich
+1 God-Eternal Oketra
+1 Corpse Harvester
+1 Bone Miser
+1 Wilhelt, the Rotcleaver
+1 Overcharged Amalgam
+1 Zombie Master
+1 Lich Lord of Unx
+1 Headless Rider
+1 Acererak the Archlich
+1 Wayward Servant
+1 Crashing Drawbridge
+1 Haunting Voyage
+1 Doomskar
+1 Open the Graves
+1 Necroduality
+1 Endless Ranks of the Dead
+1 Zombie Infestation
+1 Arcane Sanctum
+1 Elvish Doomsayer
+1 Elderfang Disciple
+1 Last One Standing
+1 Sage of Fables
+1 Phyrexian Dragon Engine
+1 Liliana's Standard Bearer
+1 Falkenrath Aristocrat
+1 Ajani, Sleeper Agent
+1 Kaya, Orzhov Usurper
+1 Interplanar Beacon
+1 Pilot 1/1 C
+1 Clown Robot 1/1 W
+1 Unlicensed Hearse
+1 Sky Skiff
+1 Prophetic Ravings
+1 Mogg Salvage
+1 Shivan Hellkite
+1 Dwarven Miner
+1 Dwarven Bloodboiler
+1 Dwarven Blastminer
+1 Reckoner Bankbuster
+1 Clown Car
+1 Nicol Bolas, the Ravager
+1 Subterranean Tremors
+1 Sorin the Mirthless
+1 Nicol Bolas, Planeswalker
+1 Nicol Bolas, God-Pharaoh
+1 Nicol Bolas, Dragon-God
+1 The Scarab God
+1 Kolaghan's Command
+1 Yuriko, the Tiger\'s Shadow
+1 Shadow of Mortality
+1 Blinkmoth Infusion
+1 Commandeer
+1 Coastal Breach
+1 Consign / Oblivion
+1 Submerge
+1 Tetsuko Umezawa, Fugitive
+1 Wingcrafter
+1 Network Disruptor
+1 Faerie Seer
+1 Sakashima's Student
+1 Ninja of the Deep Hours
+1 Ingenious Infiltrator
+1 Prosperous Thief
+1 Mistblade Shinobi
+1 Mist-Syndicate Naga
+1 Skullsnatcher
+1 Silver-Fur Master
+1 Moon-Circuit Hacker
+1 Inkrise Infiltrator
+1 Thousand-Faced Shadow
+1 Mothdust Changeling
+1 Changeling Outcast
+1 Wonder
+1 Cover of Darkness
+1 Vedalken AEthermage
+1 Sea Gate Stormcaller
+1 Naban, Dean of Iteration
+1 Micromancer
+1 Harmonic Prodigy
+1 Augur of Bolas
+1 Step Through
+1 Mnemonic Betrayal
+1 Mystic Snake
+1 Faerie Macabre
+1 Frontier Siege
+1 Villainous Wealth
+1 Tear Asunder
+1 Halimar Excavator
+1 Whirlwind of Thought
+1 Unsettled Mariner
+1 Tuktuk Scrapper
+1 Tajuru Warcaller
+1 Shapesharer
+1 Seascape Aerialist
+1 Resolute Blademaster
+1 Ondu Cleric
+1 Ondu Champion
+1 Moritte of the Frost
+1 Makindi Patrol
+1 Lantern Scout
+1 Kor Bladewhirl
+1 Kazuul Warlord
+1 Kalastria Healer
+1 Kabira Evangel
+1 Jwari Shapeshifter
+1 Hagra Diabolist
+1 Firemantle Mage
+1 Chasm Guide
+1 Bala Ged Thief
+1 Akoum Battlesinger
+1 Mass Mutiny
+1 Insurrection
+1 Demonic Embrace
+1 Captivating Crew
+1 Sunbird's Invocation
+1 Null Profusion
+1 Undying Malice
+1 Undying Evil
+1 Supernatural Stamina
+1 Kardur, Doomscourge
+1 Disrupt Decorum
+1 Brash Taunter
+1 Storm's Wrath
+1 Necromantic Selection
+1 Mastermind's Acquisition
+1 Drossforge Bridge
+1 Ur-Golem's Eye
+1 Sisay's Ring
+1 Shiny Impetus
+1 Heartstone
+1 Halo Fountain
+1 Heritage Druid
+1 Birchlore Rangers
+1 Elvish Guidance
+1 Bennie Bracks, Zoologist
+1 Elven Ambush
+1 Imperious Perfect
+1 Simic Charm
+1 Retreat to Coralhelm
+1 Skyshroud Ranger
+1 Rootpath Purifier
+1 Aesi, Tyrant of Gyre Strait
+1 Razaketh's Rite
+1 Dimir Machinations
+1 Bile Blight
+1 Heartless Summoning
+1 Thran Portal
+1 Blinkmoth Nexus
+1 Dimir House Guard
+1 Vile Entomber
+1 Fleshwrither
+1 Balthor the Defiled
+[]
