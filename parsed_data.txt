@@ -6833,3 +6833,835 @@
 1 Unsubstantiate
 1 Hydroblast
 ['https://tappedout.net/mtg-decks/red-sonja-experimental-cedh-tempo/', 'https://tappedout.net/mtg-decks/exile-all-decks/', 'https://tappedout.net/mtg-decks/kess-thoracle-consultation/', 'https://tappedout.net/mtg-decks/phyrexian-perfection-mono-black-combo-cedh/', 'https://tappedout.net/mtg-decks/in-shadows/', 'https://tappedout.net/mtg-decks/youre-dund/', 'https://tappedout.net/mtg-decks/the-latest-plague-locust-god-combo/', 'https://tappedout.net/mtg-decks/birgi-turbo-storm-cedh/', 'https://tappedout.net/mtg-decks/krenkos-munchkin-mafia/', 'https://tappedout.net/mtg-decks/beelz-aboot/', 'https://tappedout.net/mtg-decks/13-11-22-inalla-wip/', 'https://tappedout.net/mtg-decks/purphoros-god-of-dancefloor/', 'https://tappedout.net/mtg-decks/purphoros-god-of-the-etb-triggers-cedh-primer/', 'https://tappedout.net/mtg-decks/turbo-dargo-cedh/', 'https://tappedout.net/mtg-decks/12-11-22-urzas-artifact-army/', 'https://tappedout.net/mtg-decks/02-06-19-neheb/', 'https://tappedout.net/mtg-decks/the-equipment-jelly/', 'https://tappedout.net/mtg-decks/azamis-twister-wizards/', 'https://tappedout.net/mtg-decks/just-not-fun-for-opponent/', 'https://tappedout.net/mtg-decks/peering-zur/', 'https://tappedout.net/mtg-decks/old-mctymna-had-a-farm-blue-farm-cedh-1/', 'https://tappedout.net/mtg-decks/the-warriors-blade-najeela-cedh/', 'https://tappedout.net/mtg-decks/tolarian-legend-urza-cedh/', 'https://tappedout.net/mtg-decks/the-wandering-song-yisan-cedh/', 'https://tappedout.net/mtg-decks/17-03-19-bird-is-the-word/', 'https://tappedout.net/mtg-decks/medium-medium-green/', 'https://tappedout.net/mtg-decks/oh-captain-my-captain-02-08-13-1/', 'https://tappedout.net/mtg-decks/xantcha-big-mana-2/', 'https://tappedout.net/mtg-decks/29-05-20-rebel-alliance/', 'https://tappedout.net/mtg-decks/sidisi-doesnt-make-life-easy/', 'https://tappedout.net/mtg-decks/yuriko-optimized-primer/', 'https://tappedout.net/mtg-decks/dominus-crushinator-1/', 'https://tappedout.net/mtg-decks/karn-flakes/', 'https://tappedout.net/mtg-decks/ally-or-not/', 'https://tappedout.net/mtg-decks/what-the-blink-just-happened/', 'https://tappedout.net/mtg-decks/urza-lord-high-combomaster/', 'https://tappedout.net/mtg-decks/king-me-king-me/', 'https://tappedout.net/mtg-decks/valki-tibalt-turbo/', 'https://tappedout.net/mtg-decks/lots-of-elfing-tokens/', 'https://tappedout.net/mtg-decks/sultai-cedh/', 'https://tappedout.net/mtg-decks/31-07-16-bug-reanimator/', 'https://tappedout.net/mtg-decks/thrasios-tymna-pemmins-oracle-cedh/', 'https://tappedout.net/mtg-decks/nicol-bolas-the-world/', 'https://tappedout.net/mtg-decks/magda-dwarf-hellkite-stax/', 'https://tappedout.net/mtg-decks/the-legion-of-doom-foiled-again/', 'https://tappedout.net/mtg-decks/every-masochist-needs-a-marchesa-to-love-them/', 'https://tappedout.net/mtg-decks/19-03-19-kess-consultation/', 'https://tappedout.net/mtg-decks/the-queens-hoard/', 'https://tappedout.net/mtg-decks/06-12-22-GdH-dragon-swarm/', 'https://tappedout.net/mtg-decks/tinybones-thought-thief-mono-black-control/', 'https://tappedout.net/mtg-decks/animar-recruiter-cedh/', 'https://tappedout.net/mtg-decks/06-12-19-meren/', 'https://tappedout.net/mtg-decks/jhoira-tempered-mage/', 'https://tappedout.net/mtg-decks/the-necrogen-project/', 'https://tappedout.net/mtg-decks/grist-the-insect-itide/', 'https://tappedout.net/mtg-decks/undying_phyrexian_aristocracy/', 'https://tappedout.net/mtg-decks/urzas-power-scepter-1/', 'https://tappedout.net/mtg-decks/selvala-its-wabbit-season-1/', 'https://tappedout.net/mtg-decks/sorrynotsorry/', 'https://tappedout.net/mtg-decks/all-my-friends-hate-me/', 'https://tappedout.net/mtg-decks/jhioras-historic-artifacts/', 'https://tappedout.net/mtg-decks/ruw-kek-fork/', 'https://tappedout.net/mtg-decks/toothy-storm-cedh/', 'https://tappedout.net/mtg-decks/heavenly-hellfire-kaalia-of-the-vast-cedh/', 'https://tappedout.net/mtg-decks/xhamster-a-minsc-hulk-primer/', 'https://tappedout.net/mtg-decks/chaos-reigns-with-coins/', 'https://tappedout.net/mtg-decks/13-01-22-magda-cedh/', 'https://tappedout.net/mtg-decks/prosshs-dastardly-aristocratic-bastards/', 'https://tappedout.net/mtg-decks/27-11-22-tasigur-cedh-copy/', 'https://tappedout.net/mtg-decks/40k-heliod-emperor-of-mankind-1/', 'https://tappedout.net/mtg-decks/winconless-oloro-cedh-1/', 'https://tappedout.net/mtg-decks/02-05-18-paradox/', 'https://tappedout.net/mtg-decks/uril-cedh/', 'https://tappedout.net/mtg-decks/beware-the-coming-storm-1/', 'https://tappedout.net/mtg-decks/17-11-20-secret-of-the-ooze/', 'https://tappedout.net/mtg-decks/the-many-faced-god-primer-1/', 'https://tappedout.net/mtg-decks/parry-this-casual/', 'https://tappedout.net/mtg-decks/yeva-emergence-ashaya-yea-cedh/', 'https://tappedout.net/mtg-decks/uzra-artifact-cedh/', 'https://tappedout.net/mtg-decks/dralnu-oracle-consultation/', 'https://tappedout.net/mtg-decks/delicious-loops-of-undeath/', 'https://tappedout.net/mtg-decks/breya-artifact-cruncher/', 'https://tappedout.net/mtg-decks/dockside-of-the-force/', 'https://tappedout.net/mtg-decks/kroxa-the-infinite/', 'https://tappedout.net/mtg-decks/20-02-17-spooders/', 'https://tappedout.net/mtg-decks/the-spankening-archived-copy/', 'https://tappedout.net/mtg-decks/elsha-storm-top/', 'https://tappedout.net/mtg-decks/my-kess-cedh/', 'https://tappedout.net/mtg-decks/teferi-mage-of-zero-turns/', 'https://tappedout.net/mtg-decks/birds-lay-eggs-2/', 'https://tappedout.net/mtg-decks/jeska-rograhk-mono-red-cedh/', 'https://tappedout.net/mtg-decks/azusa-lost-but-staxy/', 'https://tappedout.net/mtg-decks/14-10-15-xenagos-god-of-revels/', 'https://tappedout.net/mtg-decks/15-09-22-combo-elves/', 'https://tappedout.net/mtg-decks/teach-me-how-to-sluggy-1/', 'https://tappedout.net/mtg-decks/22-11-22-primer-v36-om_rath-2021-update-copy/', 'https://tappedout.net/mtg-decks/zur-budget-cedh-1/', 'https://tappedout.net/mtg-decks/saffi-boonhulk-cedh-primer-1/', 'https://tappedout.net/mtg-decks/isshin-army-of-darkness/', 'https://tappedout.net/mtg-decks/muldrothas-madhouse-no-infinite/', 'https://tappedout.net/mtg-decks/right-tohatebear-arms-tymnasidar/', 'https://tappedout.net/mtg-decks/marisis-combat-trickin-hoes/', 'https://tappedout.net/mtg-decks/pram-night-dumpster-baby/', 'https://tappedout.net/mtg-decks/sisays-hombres-hatebears-1/', 'https://tappedout.net/mtg-decks/narset-american-beauty/', 'https://tappedout.net/mtg-decks/saheeli-eldraziartifacts/', 'https://tappedout.net/mtg-decks/pump-n-dump-uril-enchantments/', 'https://tappedout.net/mtg-decks/15-01-22-kinnan-bonder-prodigy/', 'https://tappedout.net/mtg-decks/niv-likes-drawing-1/', 'https://tappedout.net/mtg-decks/22-11-20-sisay-stax/', 'https://tappedout.net/mtg-decks/25-09-19-consultation-kess/', 'https://tappedout.net/mtg-decks/commander-overlord/', 'https://tappedout.net/mtg-decks/breya-artificer-of-dreams-1/', 'https://tappedout.net/mtg-decks/19-11-22-go-for-the-eyes-boo/', 'https://tappedout.net/mtg-decks/fast-animar-1/', 'https://tappedout.net/mtg-decks/i-am-the-senate-redux-return-of-krrik/', 'https://tappedout.net/mtg-decks/draconic-domination-upgrated/', 'https://tappedout.net/mtg-decks/08-12-19-elsha-artifact-storm/', 'https://tappedout.net/mtg-decks/kaalia-beatdown-edh/', 'https://tappedout.net/mtg-decks/still-salty-about-golos-colorless-edh/', 'https://tappedout.net/mtg-decks/14-01-18-captain-sisay-edh/', 'https://tappedout.net/mtg-decks/stenn-1/', 'https://tappedout.net/mtg-decks/05-01-21-Tvb-tinybones/', 'https://tappedout.net/mtg-decks/death-by-dragon-fire-1/', 'https://tappedout.net/mtg-decks/who-wants-to-wheel-or-do-u-want-to-deal/', 'https://tappedout.net/mtg-decks/urzy-wurzy/', 'https://tappedout.net/mtg-decks/minsc-beloved-ranger-cedh/', 'https://tappedout.net/mtg-decks/damia-peer/', 'https://tappedout.net/mtg-decks/eat-u-alive-updated/', 'https://tappedout.net/mtg-decks/my-favorite-deck-so-far/', 'https://tappedout.net/mtg-decks/ikraum-cedh/', 'https://tappedout.net/mtg-decks/horobi-doesnt-like-guests/', 'https://tappedout.net/mtg-decks/alena-3-halana-gruulfriends/', 'https://tappedout.net/mtg-decks/yo-kess-spin-that-wheel/', 'https://tappedout.net/mtg-decks/post-malone-4/', 'https://tappedout.net/mtg-decks/spirited-away-reaper-king-cedh/', 'https://tappedout.net/mtg-decks/infected-mimeoplasm-1/', 'https://tappedout.net/mtg-decks/04-09-22-fLx-our-turn/', 'https://tappedout.net/mtg-decks/animar-statue-combo/', 'https://tappedout.net/mtg-decks/guess-whos-back-kenrith-cedh/', 'https://tappedout.net/mtg-decks/kura-the-boundless-sky-lands/', 'https://tappedout.net/mtg-decks/kobold-snacks/', 'https://tappedout.net/mtg-decks/bruvac-the-grandiloquent-millage-pillage-1/', 'https://tappedout.net/mtg-decks/24-10-22-rocco/', 'https://tappedout.net/mtg-decks/arahbo-xenagos-for-cats-edh/', 'https://tappedout.net/mtg-decks/brawlman-and-shazam/', 'https://tappedout.net/mtg-decks/maelstroms-wanderings-1/', 'https://tappedout.net/mtg-decks/liesa-attempted-cedh-stax/', 'https://tappedout.net/mtg-decks/a-bears-so-good-u-can-play-him-in-cedh/', 'https://tappedout.net/mtg-decks/atraxa-to-become-cedh-version-5/', 'https://tappedout.net/mtg-decks/just-stay-dead-1/', 'https://tappedout.net/mtg-decks/10-11-22-golos-lands/', 'https://tappedout.net/mtg-decks/cedh-thrasios-and-tymna-midrange/', 'https://tappedout.net/mtg-decks/11-09-20-alesha-reanimator/', 'https://tappedout.net/mtg-decks/archangel-avacyn-the-purifier-3/', 'https://tappedout.net/mtg-decks/what-was-once-an-army-is-always-an-army-1/', 'https://tappedout.net/mtg-decks/22-09-18-narset-combo/', 'https://tappedout.net/mtg-decks/the-8th-plague-by-vas/', 'https://tappedout.net/mtg-decks/competitive-kinnan-1/', 'https://tappedout.net/mtg-decks/07-09-20-scarab-god-zombie-control/', 'https://tappedout.net/mtg-decks/sen-triplets-goodstuff-control-1/', 'https://tappedout.net/mtg-decks/krenko-com-boss-1/', 'https://tappedout.net/mtg-decks/marshesa-the-black-rose/', 'https://tappedout.net/mtg-decks/toralf-god-of-fire/', 'https://tappedout.net/mtg-decks/for-house-markov-1/', 'https://tappedout.net/mtg-decks/competitive-chain-veil-teferi-3/', 'https://tappedout.net/mtg-decks/titainia/', 'https://tappedout.net/mtg-decks/16-09-22-krenko/', 'https://tappedout.net/mtg-decks/lorehold-turns-cedh/', 'https://tappedout.net/mtg-decks/04-11-22-dargons/', 'https://tappedout.net/mtg-decks/derevi-stax-on-stax-2/', 'https://tappedout.net/mtg-decks/hazezons-always-got-it-updated-011922/', 'https://tappedout.net/mtg-decks/niv-mizzet-wheels-3/', 'https://tappedout.net/mtg-decks/paradox-scepter-thrasios-artifact-heavy/', 'https://tappedout.net/mtg-decks/daroonia-heroes-of-hyrule/', 'https://tappedout.net/mtg-decks/emo-vi-v3-budgetless-half-casual/', 'https://tappedout.net/mtg-decks/lagrella-stax-w-combo-finish/', 'https://tappedout.net/mtg-decks/dramatic-oracle/', 'https://tappedout.net/mtg-decks/what-is-best-in-life-godo-cedh/', 'https://tappedout.net/mtg-decks/next-level-najeela/', 'https://tappedout.net/mtg-decks/doom-zenith/', 'https://tappedout.net/mtg-decks/berb-wizards/', 'https://tappedout.net/mtg-decks/13-10-17-its-good-to-be-the-queen/', 'https://tappedout.net/mtg-decks/jodah-the-legendaddy/', 'https://tappedout.net/mtg-decks/ephara-remastered/', 'https://tappedout.net/mtg-decks/cormela-doomsaw-fun/', 'https://tappedout.net/mtg-decks/narset-solitaire-master-1/', 'https://tappedout.net/mtg-decks/selvala-explorer-of-the-legends/', 'https://tappedout.net/mtg-decks/i-advise-you-quit/', 'https://tappedout.net/mtg-decks/mizzie-the-spellslinger-1/', 'https://tappedout.net/mtg-decks/', 'https://tappedout.net/mtg-decks/', 'https://tappedout.net/mtg-decks/', 'https://tappedout.net/mtg-decks/']
+1 Abrupt Decay
+6 Ad Nauseam
+6 An Offer You Can't Refuse
+1 Blue Elemental Blast
+2 Brain Freeze
+9 Cyclonic Rift
+8 Deflecting Swat
+4 Demonic Consultation
+1 Eladamri's Call
+2 Enlightened Tutor
+5 Fierce Guardianship
+6 Flusterstorm
+5 Force of Will
+1 Hydroblast
+3 Intuition
+2 March of Swirling Mist
+5 Mental Misstep
+4 Miscast
+6 Mystical Tutor
+5 Pact of Negation
+8 Red Elemental Blast
+1 Silence
+2 Snap
+1 Summoner's Pact
+8 Swan Song
+2 Swords to Plowshares
+6 Tainted Pact
+9 Vampiric Tutor
+1 Veil of Summer
+1 Worldly Tutor
+10 Demonic Tutor
+2 Diabolic Intent
+1 Eldritch Evolution
+8 Gamble
+4 Gitaxian Probe
+7 Imperial Seal
+1 Neoform
+1 Sevinne's Reclamation
+8 Mystic Remora
+6 Rhystic Study
+1 Sylvan Library
+2 Arid Mesa
+2 Badlands
+1 Bayou
+7 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Breeding Pool
+7 City of Brass
+9 Command Tower
+5 Exotic Orchard
+4 Flooded Strand
+9 Gemstone Caverns
+6 Mana Confluence
+4 Marsh Flats
+3 Misty Rainforest
+1 Overgrown Tomb
+7 Polluted Delta
+1 Savannah
+7 Scalding Tarn
+1 Scrubland
+1 Taiga
+2 Tarnished Citadel
+1 Thran Quarry
+1 Tropical Island
+1 Tundra
+3 Underground Sea
+4 Verdant Catacombs
+2 Volcanic Island
+1 Windswept Heath
+2 Wooded Foothills
+1 Avacyn's Pilgrim
+1 Birds of Paradise
+1 Deathrite Shaman
+1 Derevi, Empyrial Tactician
+7 Dockside Extortionist
+2 Drannith Magistrate
+1 Elves of Deep Shadow
+1 Elvish Spirit Guide
+2 Esper Sentinel
+1 Gilded Drake
+1 Grand Abolisher
+1 Grim Hireling
+1 Ignoble Hierarch
+1 Noble Hierarch
+6 Opposition Agent
+2 Phantasmal Image
+2 Professional Face-Breaker
+3 Ragavan, Nimble Pilferer
+2 Simian Spirit Guide
+6 Thassa's Oracle
+1 Tinder Wall
+15 Chrome Mox
+14 Jeweled Lotus
+5 Lion's Eye Diamond
+15 Lotus Petal
+20 Mana Crypt
+11 Mox Diamond
+18 Sol Ring
+4 Wishclaw Talisman
+5 Arcane Denial
+7 Brainstorm
+10 Chaos Warp
+6 Counterspell
+9 Dark Ritual
+3 Delay
+6 Dramatic Reversal
+3 Lim-Dul's Vault
+7 Mana Drain
+3 Negate
+1 Nexus of Fate
+1  *f-pp*
+2 Resculpt
+5 Seething Song
+4 Spell Pierce
+2 Test of Talents
+2 Tolarian Winds
+1 Unsubstantiate
+3 Valakut Awakening
+4 Dark Confidant
+1 Nightscape Familiar
+1 Notion Thief
+1 Ornithopter of Paradise
+2 Tribute Mage
+1 Ashiok, Dream Render
+2 Narset, Parter of Veils
+1 Bloodfell Caves
+3 Emergence Zone
+1 Fabled Passage
+7 Island
+1 Mistvault Bridge
+4 Mountain
+2 Path of Ancestry
+5 Reliquary Tower
+2 Shipwreck Marsh
+3 Shivan Reef
+3 Stormcarved Coast
+1 Sulfurous Mire
+7 Swamp
+2 Temple of Deceit
+2 Temple of Epiphany
+3 Training Center
+13 Arcane Signet
+2 Coldsteel Heart
+1 Commander's Sphere
+6 Fellwar Stone
+6 Isochron Scepter
+14 Mana Vault
+1 Mox Tantalite
+1 Prismatic Lens
+11 Sensei's Divining Top
+5 Thought Vessel
+3 Dark Deal
+2 Enter the Infinite
+4 Fabricate
+1 Flux
+3 Grapeshot
+4 Grim Tutor
+7 Jeska's Will
+4 Past in Flames
+2 Peer into the Abyss
+6 Ponder
+5 Preordain
+1 Profane Tutor
+3 Serum Visions
+1 Solve the Equation
+5 Windfall
+1 Yawgmoth's Will
+4 Necropotence
+1 Teferi's Ageless Insight
+7 Underworld Breach
+2 Elemental 4/4 UR
+4 Cabal Ritual
+3 Chain of Vapor
+2 Consider
+4 Entomb
+3 Frantic Search
+2 Infernal Grasp
+1 Memory Lapse
+2 Opt
+2 Shallow Grave
+2 Stifle
+6 Tibalt's Trickery
+15 Ancient Tomb
+2 Blightstep Pathway
+3 Blood Crypt
+1 Fiery Islet
+2 Forbidden Orchard
+1 Haunted Ridge
+1 Luxury Suite
+3 Morphic Pool
+1 Murkwater Pathway
+4 Prismatic Vista
+3 Reflecting Pool
+2 Riverglide Pathway
+3 Spire of Industry
+4 Steam Vents
+4 Underground River
+5 Urborg, Tomb of Yawgmoth
+4 Watery Grave
+2 Baral, Chief of Compliance
+2 Dragon's Rage Channeler
+3 Laboratory Maniac
+2 Snapcaster Mage
+5 Blasphemous Act
+2 Careful Study
+1 Expressive Iteration
+5 Faithless Looting
+4 Merchant Scroll
+5 Night's Whisper
+3 Toxic Deluge
+2 Unearth
+3 Vandalblast
+13 Mox Opal
+2 Sign in Blood
+3 Dauthi Voidwalker
+2 Praetor's Grasp
+2 Asmodeus the Archfiend
+1 Balthor the Defiled
+1 Fleshwrither
+2 Necrotic Ooze
+1 Vile Entomber
+1 Chainer, Dementia Master
+1 Dimir House Guard
+1 Gray Merchant of Asphodel
+2 Bolas's Citadel
+1 Sheoldred, the Apocalypse
+1 Tendrils of Agony
+2 Vilis, Broker of Blood
+1 Blast Zone
+8 Cavern of Souls
+5 City of Traitors
+6 Command Beacon
+4 Crystal Vein
+1 Gemstone Mine
+1 Glimmervoid
+5 Homeward Path
+3 Nykthos, Shrine to Nyx
+1 Peat Bog
+2 Phyrexian Tower
+1 Shizo, Death's Storehouse
+4 Snow-Covered Swamp
+1 Strip Mine
+1 Takenuma, Abandoned Mire
+1 Thran Portal
+1 Urborg
+7 Urza's Saga
+2 Vault of Whispers
+3 Imp's Mischief
+2 Blood Celebrant
+2 Blood Pet
+3 Culling the Weak
+7 Grim Monolith
+1 Heartless Summoning
+3 Jet Medallion
+5 Mox Amber
+1 Overeager Apprentice
+1 Rain of Filth
+1 Sacrifice
+2 Skirge Familiar
+1 Soldevi Adnate
+3 Animate Dead
+2 Dance of the Dead
+2 Necromancy
+5 Reanimate
+1 Xiahou Dun, the One-Eyed
+1 Bile Blight
+3 Cut Down
+2 Deadly Rollick
+4 Dismember
+3 Feed the Swarm
+2 Grasp of Darkness
+1 Pestilence
+3 Thoughtseize
+1 Victim of Night
+2 Buried Alive
+1 Dark Petition
+1 Diabolic Tutor
+1 Dimir Machinations
+2 Final Parting
+1 Mastermind's Acquisition
+1 Razaketh's Rite
+1 Sidisi, Undead Vizier
+1 Cabal Pit
+1 Cephalid Coliseum
+1 Darkslick Shores
+2 Otawara, Soaring City
+2 Plaza of Heroes
+1 Snow-Covered Island
+2 Sunken Ruins
+1 Cover of Darkness
+3 Memnite
+3 Ornithopter
+2 Phyrexian Walker
+1 Cauldron Familiar
+1 Changeling Outcast
+4  *f-etch*
+1 Faerie Seer
+1 Mist-Cloaked Herald
+1 Slither Blade
+1 Spectral Sailor
+1 Thousand-Faced Shadow
+1 Triton Shorestalker
+1 Wingcrafter
+1 Moon-Circuit Hacker
+1 Silver-Fur Master
+1 Tetsuko Umezawa, Fugitive
+1 Mist-Syndicate Naga
+1 Yuriko, the Tiger's Shadow
+1 Ingenious Infiltrator
+2 Sakashima of a Thousand Faces
+1 Sakashima's Student
+1 Peregrine Drake
+1 Great Whale
+1 Palinchron
+3 Grafdigger's Cage
+1 Cursed Totem
+6 Scroll Rack
+3 Dispel
+1 Suspend
+3 Force of Negation
+2 Tormod's Crypt
+2 Springleaf Drum
+3 Basalt Monolith
+1 Rings of Brighthearth
+4 Aetherflux Reservoir
+1 Duress
+2 Inquisition of Kozilek
+1 Persist
+2 Torment of Hailfire
+1 Unmarked Grave
+1 Damnation
+4 Walking Ballista
+1 Braids, Arisen Nightmare
+1 Maralen of the Mornsong
+3 Ophiomancer
+1 Slaughter Pact
+1 Ulcerate
+1 Snuff Out
+2 Bitterblossom
+2 Dreadhorde Invasion
+1 Contamination
+1 Phyrexian Arena
+1 Leyline of the Void
+1 Grief
+3 Snake 1/1 B
+2 Faerie Rogue 1/1 B
+2 Zombie Army 0/0 B
+5 Ashnod's Altar
+1 Fire Diamond
+1 Izzet Signet
+3 Lightning Greaves
+3 Mind Stone
+4 Phyrexian Altar
+7 Skullclamp
+2 Sky Diamond
+2 Talisman of Creativity
+1 Teferi's Puzzle Box
+1 Consecrated Sphinx
+1 Jace's Archivist
+1 Kozilek, Butcher of Truth
+6 Magus of the Wheel
+1 Psychosis Crawler
+4 Purphoros, God of the Forge
+2 Sage of the Falls
+4 Trinket Mage
+1 Whirlpool Warrior
+1 Academy Ruins
+1 Cascade Bluffs
+3 Great Furnace
+1 Halimar Depths
+3 Seat of the Synod
+1 Spirebluff Canal
+1 Sulfur Falls
+1 Echo of Eons
+1 Molten Psyche
+5 Reforge the Soul
+1 Time Reversal
+1 Time Spiral
+8 Wheel of Fortune
+4 Wheel of Misfortune
+2 Winds of Change
+2 Firestorm
+2 Pongify
+1 Rapid Hybridization
+5 Impact Tremors
+2 Kindred Discovery
+1 Wayfarer's Bauble
+3 Tolaria West
+1 Ashnod\'s Altar
+2 Ape 3/3 G
+3 Bird 2/2 U
+1 Frog Lizard 3/3 G
+1 Ancestral Anger
+1 Bonus Round
+1 Burning Inquiry
+1 Cathartic Reunion
+1 Change of Fortune
+1 Crash Through
+2 Finale of Promise
+2 Ignite the Future
+2 Infernal Plunge
+1 Mizzix's Mastery
+2 Overmaster
+1 Renegade Tactics
+2 Rite of Flame
+2 Shatterskull Smashing
+1 Spark of Creativity
+1 Tormenting Voice
+3 Twinflame
+1 Warlord's Fury
+1 Crimson Wisps
+3 Desperate Ritual
+1 Expedite
+2 Final Fortune
+1 Increasing Vengeance
+5 March of Reckless Joy
+2 Pyretic Ritual
+7 Pyroblast
+2 Reiterate
+4 Reverberate
+1 Thrill of Possibility
+1 Chromatic Sphere
+1 Chromatic Star
+1 Conjurer's Bauble
+2 Helm of Awakening
+2 Mystic Forge
+1 Pyrite Spellbomb
+3 Darksteel Citadel
+1 Dwarven Ruins
+1 Sandstone Needle
+4 Snow-Covered Mountain
+1 Burning Prophet
+1 Containment Construct
+4 Dualcaster Mage
+1 Flamekin Harbinger
+3 Grinning Ignus
+5 Imperial Recruiter
+1 Krark, the Thumbless
+1 Merchant of the Vale
+2 Rograkh, Son of Rohgahh
+1 Runaway Steam-Kin
+4 Skirk Prospector
+5 Treasonous Ogre
+1 Experimental Frenzy
+6 Abrade
+4 Fork
+1 Ricochet Trap
+4 Wild Magic Surge
+1 Conspicuous Snoop
+3 Dark-Dweller Oracle
+1 Goblin Bushwhacker
+1 Goblin Chirurgeon
+1 Goblin Cratermaker
+2 Goblin Engineer
+4 Goblin Matron
+2 Goblin Recruiter
+1 Goblin Ringleader
+1 Goblin Sharpshooter
+1 Goblin Trashmaster
+1 Goblin Warchief
+1 Grenzo, Havoc Raiser
+5 Kiki-Jiki, Mirror Breaker
+1 Mogg Fanatic
+1 Moggcatcher
+1 Pashalik Mons
+1 Subira, Tulzidi Caravanner
+1 Torch Courier
+2 Treasure Nabber
+1 Urabrask the Hidden
+4 Blood Moon
+1 Fervor
+1 Goblin Bombardment
+1 Mana Echoes
+1 Mass Hysteria
+1 Shared Animosity
+1 Hammer of Purphoros
+1 Illusionist's Bracers
+4 Ruby Medallion
+1 Staff of Domination
+1 Sword of the Paruns
+1 Thornbite Staff
+1 Thousand-Year Elixir
+1 Umbral Mantle
+1 Battle Hymn
+1 Brightstone Ritual
+1 Daretti, Scrap Savant
+4 Buried Ruin
+1 Dwarven Mine
+4 Inventors' Fair
+1 Scavenger Grounds
+1 Sea Gate Wreckage
+3 Valakut, the Molten Pinnacle
+7 War Room
+1 Ruination
+1 Shattering Spree
+1 Sudden Demise
+1 Trash for Treasure
+2 Birgi, God of Storytelling
+1 Fanatical Firebrand
+4 Goblin Welder
+1 Jeering Instigator
+4 Magus of the Moon
+1 Ogre Battledriver
+1 Reckless Bushwhacker
+4 Zealous Conscripts
+3 Aggravated Assault
+1 Price of Glory
+1 Stranglehold
+1 Widespread Panic
+1 Ugin, the Ineffable
+1 Clearwater Pathway
+1 Crosis's Catacombs
+1 Crumbling Necropolis
+1 Graven Cairns
+1 Sulfurous Springs
+1 Temple of Malice
+2 Xander's Lounge
+1 Black Market Connections
+1 Imprisoned in the Moon
+1 Liliana's Contract
+1 Mark of the Oni
+1 Reflections of Littjara
+1 Abyssal Persecutor
+1 Archfiend of Despair
+1 Blood Speaker
+1 Bloodgift Demon
+1 Bloodthirster
+1 Demon of Catastrophes
+1 Desecration Demon
+1 Doom Whisperer
+1 Exalted Flamer of Tzeentch
+1 Great Unclean One
+1 Gyruda, Doom of Depths
+1 Herald of Slaanesh
+1 Kardur, Doomscourge
+1 Lord Xander, the Collector
+1 Lord of Change
+1 Plague Drone
+1 Prince of Thralls
+1 Rakdos, Lord of Riots
+1 Raphael, Fiendish Savior
+1 Razaketh, the Foulblooded
+1 Reaper from the Abyss
+1 Rune-Scarred Demon
+1 Sol'kanar the Swamp King
+1 Spark Double
+1 Varragoth, Bloodsky Sire
+1 Blood for the Blood God!
+1 Chromatic Lantern
+1 Herald's Horn
+2 Talisman of Dominance
+1 Talisman of Indulgence
+1 The Golden Throne
+1 Urza's Incubator
+1 Kindred Charge
+1 Kindred Dominance
+1 Living Death
+1 Rise of the Dark Realms
+1 Geyadrone Dihada
+1 Be\'Lakor, the Dark Master
+2 Copy Clone
+1 Devil 1/1 R
+2 Riptide Laboratory
+1 Burnt Offering
+1 Drown in the Loch
+1 Essence Flux
+1 Jeweled Amulet
+1 Mnemonic Betrayal
+1 Step Through
+1 Archaeomancer
+1 Augur of Bolas
+1 Harmonic Prodigy
+1 Micromancer
+1 Naban, Dean of Iteration
+1 Sea Gate Stormcaller
+3 Spellseeker
+1 Vedalken AEthermage
+2 Endless Atlas
+2 Ensnaring Bridge
+3 Expedition Map
+5 Memory Jar
+3 Mimic Vat
+2 Nevinyrral's Disk
+2 Panharmonicon
+2 Treasure Map
+3 Earthquake
+3 Firecat Blitz
+3 Tempt with Vengeance
+2 Beetleback Chief
+3 Feldon of the Third Path
+2 Goblin Instigator
+3 Krenko, Mob Boss
+2 Mogg War Marshal
+2 Norin the Wary
+2 Phyrexian Revoker
+2 Magmaquake
+2 Starstorm
+2 Boseiju, Who Shelters All
+3 Forgotten Cave
+2 Glacial Chasm
+2 Kher Keep
+2 Mikokoro, Center of the Sea
+2 Myriad Landscape
+2 Roadside Reliquary
+2 Smoldering Crater
+2 Curse of Opulence
+3 Fable of the Mirror-Breaker
+1 1/1 R Token Creature Elemental Cat
+3 Construct 0/0 C
+1 Elemental 1/1 R w/ Haste
+1 Goblin 1/1 R
+1 Gold
+1 Kobold 0/1 R
+2 Treasure
+3 Price of Progress
+1 Crimson Kobolds
+1 Crookshank Kobolds
+1 Fury
+2 Kobolds of Kher Keep
+1 Kuldotha Forgemaster
+1 Shield Sphere
+2 Thermopod
+1 ________ Goblin
+1 Brotherhood's End
+1 Seize the Spotlight
+1 Strike it Rich
+2 Chalice of the Void
+1 Cloudstone Curio
+4 Everflowing Chalice
+2 Mishra's Bauble
+2 Moonsilver Key
+1 Urza's Bauble
+1 Barbarian Ring
+1 Hanweir Battlements
+3 Meld
+1 Shinka, the Bloodsoaked Keep
+1 Sokenzan, Crucible of Defiance
+1 Treasure Vault
+2 Bolt Bend
+1 Lightning Bolt
+1 Mogg Salvage
+2 Dargo, the Shipwrecker
+1 Jeska, Thrice Reborn
+1 Archivist of Oghma
+1 Baleful Strix
+1 Blightsteel Colossus
+1 Bronze Guardian
+1 Cyberdrive Awakener
+1 Digsite Engineer
+2 Emry, Lurker of the Loch
+2 Etherium Sculptor
+2 Foundry Inspector
+1 Liberator, Urza's Battlethopter
+1 Losheel, Clockwork Scholar
+1 Master Transmuter
+1 Master of Etherium
+1 Myrel, Shield of Argive
+1 Padeem, Consul of Innovation
+1 Phyrexian Metamorph
+1 Sai, Master Thopterist
+2 Spellskite
+1 Steel Overseer
+1 The Reality Chip
+1  *pp*
+1 Thought Monitor
+1 Urza, Lord High Artificer
+1 Urza, Lord Protector
+1 Dovin's Veto
+1 Teferi's Protection
+1 Adarkar Wastes
+1 Ancient Den
+1 Bojuka Bog
+1 Goldmire Bridge
+1 Hallowed Fountain
+2 Mystic Sanctuary
+1 Plains
+1 Skycloud Expanse
+1 Anointed Procession
+1 Smothering Tithe
+1 Smuggler's Share
+1 Thopter Spy Network
+1 Elspeth, Knight-Errant
+1 Elspeth, Sun's Champion
+1 Cranial Plating
+2 Liquimetal Torque
+1 Relic of Progenitus
+2 Strionic Resonator
+2 Swiftfoot Boots
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 The Mightstone and Weakstone
+1 Damn
+1 March of Progress
+1 Emblem Elspeth, Knight-Errant
+1 Emblem Elspeth, Sun's Champion
+1 Acidic Soil
+1 Apex of Power
+1 Breath of Darigaaz
+1 Crackle with Power
+1 Fiery Confluence
+1 Flame Rift
+1 Jaya's Immolating Inferno
+1 Light Up the Stage
+1 Molten Disaster
+2 Reckless Impulse
+2 Relentless Assault
+2 Rob the Archives
+1 Rolling Earthquake
+2 Seize the Day
+2 World at War
+2 Chandra's Incinerator
+1 Firebrand Archer
+1 Guttersnipe
+1 Kessig Flamebreather
+1 Toralf, God of Fury
+1 Torbran, Thane of Red Fell
+1 Comet Storm
+1 Commune with Lava
+1 Delayed Blast Fireball
+1 Fall of the Titans
+1 Fault Line
+1 Invoke Calamity
+1 Storm King's Thunder
+1 Arch of Orazca
+1 Bonders' Enclave
+1 Desert of the Fervent
+1 Hall of the Bandit Lord
+1 Doubling Cube
+1 Sceptre of Eternal Glory
+1 Fiery Emancipation
+1 Pyrohemia
+1 Bonders\' Enclave
+1 Tibalt\'s Trickery
+1 Inferno of the Star Mounts
+1 Descent into Avernus
+1 Leyline Tyrant
+1 Aether Spellbomb
+1 Cloud Key
+1 Codex Shredder
+1 Manifold Key
+1 Moonsnare Prototype
+1 Semblance Anvil
+1 Soul-Guide Lantern
+1 Welding Jar
+1 Artificer's Intuition
+1 Back to Basics
+1 Daze
+1 Foil
+2 Reality Shift
+2 Unwind
+3 Whir of Invention
+2 Day's Undoing
+1 Reshape
+1 Artificer's Assistant
+1 Cathartic Adept
+1 Jhoira's Familiar
+1 Millikin
+1 Riddlesmith
+1 Shimmer Myr
+1 Trophy Mage
+2 Manifest 2/2 C
+1 Anticipate
+1 Blink of an Eye
+1 Blue Sun's Zenith
+1 Dig Through Time
+1 Disallow
+1 Forbid
+1 High Tide
+1 Impulse
+1 Mana Leak
+2 Muddle the Mixture
+1 Supreme Will
+1 Thirst for Knowledge
+1 Gilded Lotus
+3 Paradox Engine
+1 Sapphire Medallion
+1 Voltaic Key
+1 Minamo, School at Water's Edge
+1 Aphetto Alchemist
+1 Daring Apprentice
+1 Jace, Vryn's Prodigy
+1 Merfolk Trickster
+1 Sage of Epityr
+1 Siren Stormtamer
+1 Stonybrook Banneret
+1 Teferi, Mage of Zhalfir
+1 Venser, Shaper Savant
+1 Propaganda
+3 Azami, Lady of Scrolls
+1 Blue Sun\'s Zenith
+1 Mirari\'s Wake
+1 Doomsday
+1 Emblem Jace, Vryn's Prodigy
+1 Morph 2/2 C
+1 Anvil of Bogardan
+1 Smokestack
+1 Tangle Wire
+1 Torpor Orb
+1 Trinisphere
+1 Bottomless Pit
+1 Desolation
+1 Kaya's Ghostform
+1 Waste Not
+1 Awaken the Erstwhile
+1 Bubbling Muck
+1 Chain of Smog
+1 Death Cloud
+1 Innocent Blood
+1 Mire in Misery
+1 Pox
+1 Smallpox
+1 Cabal Coffers
+1 Castle Locthwain
+1 Geier Reach Sanitarium
+1 Karn, the Great Creator
+1 Liliana of the Veil
+1 Liliana, Waker of the Dead
+1 Liliana's Triumph
+1 Soul Shatter
+1 Vona's Hunger
+1 Withering Boon
+1 Fleshbag Marauder
+1 Mindslicer
+1 Plaguecrafter
+1 Rankle, Master of Pranks
+1 Tinybones, Trinket Thief
+1 Tergrid
+1 \n    \xc2\xa0
+1 City's Blessing
+1 Emblem Liliana, Waker of the Dead
+1 Zombie 2/2 B
+['https://tappedout.net/mtg-decks/red-sonja-experimental-cedh-tempo/', 'https://tappedout.net/mtg-decks/exile-all-decks/', 'https://tappedout.net/mtg-decks/kess-thoracle-consultation/', 'https://tappedout.net/mtg-decks/phyrexian-perfection-mono-black-combo-cedh/', 'https://tappedout.net/mtg-decks/in-shadows/', 'https://tappedout.net/mtg-decks/youre-dund/', 'https://tappedout.net/mtg-decks/the-latest-plague-locust-god-combo/', 'https://tappedout.net/mtg-decks/birgi-turbo-storm-cedh/', 'https://tappedout.net/mtg-decks/krenkos-munchkin-mafia/', 'https://tappedout.net/mtg-decks/beelz-aboot/', 'https://tappedout.net/mtg-decks/13-11-22-inalla-wip/', 'https://tappedout.net/mtg-decks/purphoros-god-of-dancefloor/', 'https://tappedout.net/mtg-decks/purphoros-god-of-the-etb-triggers-cedh-primer/', 'https://tappedout.net/mtg-decks/turbo-dargo-cedh/', 'https://tappedout.net/mtg-decks/12-11-22-urzas-artifact-army/', 'https://tappedout.net/mtg-decks/02-06-19-neheb/', 'https://tappedout.net/mtg-decks/the-equipment-jelly/', 'https://tappedout.net/mtg-decks/azamis-twister-wizards/', 'https://tappedout.net/mtg-decks/just-not-fun-for-opponent/']
