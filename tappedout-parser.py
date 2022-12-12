@@ -1,8 +1,9 @@
 # Competitive edh staple statistics
 from html.parser import HTMLParser
-
+from config import *
 import requests
 import time
+import threading
 
 
 class MyDeckHTMLParser(HTMLParser):
@@ -93,17 +94,12 @@ def save_file(file_name):
 
 # main program
 if __name__ == '__main__':
-    start = time.perf_counter()
-    list_of_decks = []
-    parsed_staple_dictionary = {}
-    pages_to_grabe = 20
-    file = 'parsed_data.txt'
-
+    start = time.perf_counter()  # start timer
     catch_url_from_tappedout(pages_to_grabe)
     tappedout_decks_work()
     parsed_staple_dictionary = result_sorted(parsed_staple_dictionary)
     save_file(file)
 
     print(f'parsed_staple_dictionary - {parsed_staple_dictionary}')
-    finish = time.perf_counter()
+    finish = time.perf_counter()  # finish timer
     print(f"Finish in {round(finish - start, 2)} seconds")
